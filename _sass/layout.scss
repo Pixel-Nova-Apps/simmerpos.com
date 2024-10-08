@@ -25,7 +25,6 @@
 	.headerBackground {
 		height: 80px;
 	}
-
 }
 
 .subPageHeaderBackground {
@@ -43,7 +42,7 @@
 	grid-column-gap: 30px;
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
-		"p p p p p i i i i i i i"
+		"p p p p p p p i i i i i"
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
 }
@@ -380,7 +379,6 @@ nav > ul li a:active {
 
 .iphonePreview {
 	grid-area: p;
-	background-image: url($device-color);
 	background-size: 400px auto;
 	background-repeat: no-repeat;
 	margin-top: 68px;
@@ -392,6 +390,12 @@ nav > ul li a:active {
 	clip-path: url(#screenMask);
 	margin-left: 26px;
 	margin-top: 23px;
+}
+
+.full-width-preview {
+	width: 100%;
+	height: auto;
+	display: block;
 }
 
 .videoContainer {

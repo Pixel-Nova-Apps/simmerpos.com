@@ -2,35 +2,292 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$body-color: {{ site.body_background_color }};
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
 
-$header-image: "{{ site.cover_image }}";
-$device-color: "assets/{{ site.device_color }}.png";
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f7f7f7;
+  color: #1b2d45;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
 
-$accent-color: {{ site.link_color }};
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
 
-$header-title-color: {{ site.topbar_title_color }};
-$app-title-color: {{ site.app_title_color }};
-$app-price-color: {{ site.app_price_color }};
-$app-description-color: {{ site.app_description_color }};
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+  margin-bottom: 2rem;
+}
 
-$feature-title-color: {{ site.feature_title_color }};
-$feature-text-color: {{ site.feature_text_color }};
-$footer-text-color: {{ site.footer_text_color }};
+.logo-text {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #5e5344;
+  text-decoration: none;
+}
 
-$header_color: {{ site.topbar_color }};
-$header_transparency: {{ site.topbar_transparency }};
+.main-nav ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  align-items: center; /* This will vertically center the items */
+}
 
-$image-overlay-color: {{ site.cover_overlay_color }};
-$image-overlay-transparency: {{ site.cover_overlay_transparency }};
+.main-nav ul li {
+  margin-left: 2rem;
+}
 
-$feature-icons-foreground-color: {{ site.feature_icons_foreground_color }};
-$feature-icons-background-color: {{ site.feature_icons_background_color }};
+.main-nav ul li a {
+  color: #1b2d45;
+  text-decoration: none;
+  font-weight: 500;
+  display: inline-flex; /* Change to inline-flex */
+  align-items: center; /* This will vertically center the text within the link */
+  height: 100%; /* Ensure the link takes full height of the li */
+}
 
-$social-icons-foreground-color: {{ site.social_icons_foreground_color }};
-$social-icons-background-color: {{ site.social_icons_background_color }};
+.main-nav ul li a:hover {
+  color: #5e5344;
+}
 
-@import 
-    "base",
-    "layout",
-    "github-markdown"
+.hero {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  padding: 2rem;
+}
+
+.hero-content {
+  flex: 1;
+  padding: 2rem;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #1b2d45;
+  line-height: 1.2;
+}
+
+.hero-description {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #4a5568;
+  margin-bottom: 2rem;
+}
+
+.hero-image {
+  flex: 1;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.screenshot {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.screenshot.angled {
+  transform: perspective(1000px) rotateY(-15deg);
+  transition: transform 0.3s ease-out;
+}
+
+.screenshot.angled:hover {
+  transform: perspective(1000px) rotateY(0deg);
+}
+
+.btn {
+  display: inline-flex; /* Change to inline-flex */
+  align-items: center; /* This will vertically center the text within the button */
+  padding: 0.5rem 1rem; /* Adjust padding to match other links */
+  line-height: 1; /* Ensure consistent line height */
+  background-color: #5e5344;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.btn-large {
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+}
+
+.btn:hover {
+  background-color: #28231d;
+}
+
+.features {
+  margin-bottom: 6rem;
+}
+
+.features-title {
+  text-align: center;
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  color: #1b2d45;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.feature-item {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 2rem;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.feature-item i {
+  font-size: 2rem;
+  color: #5e5344;
+  margin-bottom: 1rem;
+}
+
+.feature-item h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1b2d45;
+  margin-bottom: 0.5rem;
+}
+
+.feature-item p {
+  font-size: 1rem;
+  color: #4a5568;
+}
+
+.footer {
+  padding: 4rem 0 2rem;
+  margin-top: 6rem;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.footer-logo {
+  flex: 1;
+  margin-bottom: 1rem;
+}
+
+.footer-nav {
+  flex: 2;
+}
+
+.footer-nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-nav ul li {
+  margin-right: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-nav ul li a {
+  color: #4a5568;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.footer-nav ul li a:hover {
+  color: #2ecc71;
+}
+
+.footer-social {
+  display: flex;
+  align-items: center;
+}
+
+.social-icon {
+  font-size: 1.5rem;
+  color: #4a5568;
+  margin-left: 1rem;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #2ecc71;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.footer-bottom p {
+  font-size: 0.9rem;
+  color: #718096;
+}
+
+@media (max-width: 1024px) {
+  .hero {
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .hero-content, .hero-image {
+    flex: none;
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-description {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 1.75rem;
+  }
+
+  .hero-description {
+    font-size: 1rem;
+  }
+
+  .btn-large {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+  }
+}
