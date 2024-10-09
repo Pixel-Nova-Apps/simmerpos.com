@@ -14,6 +14,16 @@ body {
   padding: 0;
 }
 
+a {
+  color: #1b2d45;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #5e5344;
+}
+
 .container {
   max-width: 1140px;
   margin: 0 auto;

@@ -2,17 +2,20 @@
 layout: page
 title: Your Guide to Opening a Coffee Shop
 include_in_header: false
+excerpt: "Ready to turn your passion for great coffee into a thriving business? This guide will walk you through the key steps to open your very own coffee shop. It's an exciting journey, so let's get started!"
 ---
 
 # Your Guide to Opening a Coffee Shop
 
 Welcome, aspiring coffee shop owner! Ready to turn your passion for great coffee into a thriving business? This guide will walk you through the key steps to open your very own coffee shop. It's an exciting journey, so let's get started!
 
+<!--more-->
+
 ## 1. Craft Your Coffee Vision
 
 First, let's shape your unique coffee shop concept.
 
-• Your to-do list:
+Your to-do list:
 
 - Define your shop's style and atmosphere
 - Identify your target customers
@@ -24,7 +27,7 @@ First, let's shape your unique coffee shop concept.
 
 Time to figure out the financial side of your coffee dream.
 
-• Your financial checklist:
+Your financial checklist:
 
 - Calculate your total startup costs
 - Create a detailed first-year budget
@@ -36,7 +39,7 @@ Time to figure out the financial side of your coffee dream.
 
 Your location can make or break your shop. Choose wisely!
 
-• Your location hunt:
+Your location hunt:
 
 - Research high-traffic areas in your target neighborhood
 - Analyze nearby competition
@@ -48,7 +51,7 @@ Your location can make or break your shop. Choose wisely!
 
 Let's make sure your coffee shop is on the right side of the law.
 
-• Your legal to-do list:
+Your legal to-do list:
 
 - Contact local health department for food service regulations
 - Apply for necessary business licenses and permits
@@ -60,7 +63,7 @@ Let's make sure your coffee shop is on the right side of the law.
 
 Create a space that's both inviting to customers and efficient for staff.
 
-• Your design adventure:
+Your design adventure:
 
 - Plan an efficient layout for your baristas
 - Choose decor that reflects your brand
@@ -72,7 +75,7 @@ Create a space that's both inviting to customers and efficient for staff.
 
 Invest in the tools that will help you serve excellent coffee.
 
-• Your equipment checklist:
+Your equipment checklist:
 
 - Research and purchase high-quality espresso machines and grinders
 - Invest in an efficient POS system and management software
@@ -84,7 +87,7 @@ Invest in the tools that will help you serve excellent coffee.
 
 Your staff can make or break the customer experience.
 
-• Your staffing plan:
+Your staffing plan:
 
 - Create detailed job descriptions
 - Conduct thorough interviews, including practical tests for baristas
@@ -96,7 +99,7 @@ Your staff can make or break the customer experience.
 
 Develop a menu that will keep customers coming back for more.
 
-• Your menu mission:
+Your menu mission:
 
 - Perfect your core coffee offerings
 - Create a few signature drinks to set you apart
@@ -108,7 +111,7 @@ Develop a menu that will keep customers coming back for more.
 
 Let your community know that great coffee is on its way!
 
-• Your marketing checklist:
+Your marketing checklist:
 
 - Develop a strong, cohesive brand identity
 - Create an engaging website and social media presence
@@ -120,7 +123,7 @@ Let your community know that great coffee is on its way!
 
 The big day is approaching. Make it count!
 
-• Your launch plan:
+Your launch plan:
 
 - Conduct a soft opening to iron out any kinks
 - Gather feedback and make necessary adjustments
