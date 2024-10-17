@@ -8,7 +8,7 @@ include_in_header: false
 
 ## Contact support
 
-For any support questions, to book a demo or to request a feature, email simmer@pixelnova.co.nz
+For any support questions, to book a demo or to request a feature, email <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>.
 
 ## Getting started video
 
