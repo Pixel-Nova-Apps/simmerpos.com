@@ -10,7 +10,7 @@ include_in_header: false
 
 For any support questions, to book a demo or to request a feature, email simmer@pixelnova.co.nz
 
-## Demo video
+## Getting started video
 
 Learn how to set up and use Simmer in this short tutorial video.
 
