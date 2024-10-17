@@ -6,6 +6,10 @@ include_in_header: false
 
 # Support
 
+## Contact support
+
+For any support questions, to book a demo or to request a feature, email simmer@pixelnova.co.nz
+
 ## Demo video
 
 Learn how to set up and use Simmer in this short tutorial video.
@@ -62,9 +66,3 @@ If you prefer to complete the sale after your customer has been served, you can 
 ### 5. Payment and split bills
 
 After tapping 'Add to cart', you can process payment through your POS just as you would with any other sale. If you have split billing enabled, you can also split the bill between multiple customers.
-
----
-
-## Contact support
-
-Email: simmer@pixelnova.co.nz
