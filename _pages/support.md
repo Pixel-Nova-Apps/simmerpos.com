@@ -73,11 +73,13 @@ Kitchen displays can be any device with a web browser such as iPads, Chromebooks
 
 You can create kitchen displays from the Simmer app within Shopify Admin. From the Simmer dashboard scroll down to Kitchen displays and click **Add display**.
 
+<img src="/assets/kitchen-display-kds-shopify-pos.png" alt="Kitchen display (KDS) Shopify POS" style="width: 100%;">
+
 You'll then be able to label the display (whatever you like) and select the location of the display. This only applies if you have multiple locations (e.g a New York and San Francisco location).
 
 Once you've created the display, you'll be able to see the URL of the display in the Simmer dashboard. You can either share this URL with the kitchen or add the tile to your POS home screen.
 
-To login to the kitchen display you will need to copy the one time PIN code from the Simmer dashboard by clicking the Eye icon next to your kitchen display. You'll then need to enter this PIN on the kitchen display. Note that this PIN can only be used once, you will have to generate a new PIN if you need to login again. Your browser will remember that you are logged in so you won't need to enter the PIN every time.
+To login to the kitchen display you will need to copy the one time PIN code from the Simmer dashboard by clicking the Eye icon next to your kitchen display. You'll then need to enter this PIN on the kitchen display. Note that this PIN can only be used once, you will have to generate a new PIN if you need to login on another device. Your browser will remember that you are logged in so you won't need to enter the PIN every time.
 
 ### 7. Using the kitchen display
 
