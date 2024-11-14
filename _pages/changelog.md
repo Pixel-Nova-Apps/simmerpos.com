@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 
+### 11.14.2024 - Workflow improvements
+
+Simmer will now automatically create a new ticket if no current ticket is selected. This will save time if you forget to create a new ticket before trying to add a product.
+
+When you **Add to cart** Simmer will only show the confirmation modal if there are products already in the cart. And you now have the option to clear the cart or leave the cart as is.
+
+We really appreciate all the feedback we've received from merchants. Please keep it coming!
+
 ### 11.07.2024 - Kitchen displays (KDS)
 
 You can now create kitchen displays from the Simmer dashboard! For V1 of kitchen displays we've focused on maximizing the range of devices that can be used. Kitchen displays will work on any device with a web browser including iPads, Chromebooks, Smart TVs and laptops. You'll also be able to create a POS tile using the Link feature.
