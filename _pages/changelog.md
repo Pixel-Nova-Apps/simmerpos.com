@@ -10,7 +10,7 @@ include_in_header: true
 
 Simmer will now automatically create a new ticket if no current ticket is selected. This will save time if you forget to create a new ticket before trying to add a product.
 
-When you **Add to cart** Simmer will only show the confirmation modal if there are products already in the cart. And you now have the option to clear the cart or leave the cart as is.
+When you click **add to cart** Simmer will only show the confirmation modal if there are products already in the cart. And you now have the option to clear the cart or leave the cart as is.
 
 We really appreciate all the feedback we've received from merchants. Please keep it coming!
 
