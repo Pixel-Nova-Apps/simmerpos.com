@@ -6,6 +6,10 @@ include_in_header: true
 
 # Changelog
 
+### 11.15.2024 - Product screen bug fix
+
+Fixed a bug where having a large number of variants would disapear off the screen. They now wrap to the next line.
+
 ### 11.14.2024 - Workflow improvements
 
 Simmer will now automatically create a new ticket if no current ticket is selected. This will save time if you forget to create a new ticket before trying to add a product.
