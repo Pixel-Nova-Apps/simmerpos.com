@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 
+### 11.18.2024 - Improvements and fixes
+
+You can now see modifier pricing (e.g +$1.00) on the product screen.
+
+Fixed a bug where modifiers were not being displayed in the order assigned.
+
+The POS tile can now be added directly from POS (previously it was only possible from the Admin).
+
 ### 11.15.2024 - Product screen bug fix
 
 Fixed a bug where having a large number of variants would disapear off the screen. They now wrap to the next line.
