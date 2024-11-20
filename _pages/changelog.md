@@ -6,6 +6,10 @@ include_in_header: true
 
 # Changelog
 
+### 11.19.2024 - Modifier fix
+
+Fixed a bug where modifiers were not always being displayed in desired order.
+
 ### 11.18.2024 - Improvements and fixes
 
 You can now see modifier pricing (e.g +$1.00) on the product screen.
