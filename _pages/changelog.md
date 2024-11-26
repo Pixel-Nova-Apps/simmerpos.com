@@ -6,6 +6,10 @@ include_in_header: true
 
 # Changelog
 
+### 11.25.2024 - Improved ticket status updates
+
+Ticket status updates are now faster due to an improved API call.
+
 ### 11.19.2024 - Modifier fix
 
 Fixed a bug where modifiers were not always being displayed in desired order.
