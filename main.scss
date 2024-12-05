@@ -493,8 +493,9 @@ h1 {
 .breadcrumbs a {
   color: #666;
   text-decoration: none;
+  border-bottom: 1px solid;
 }
 
 .breadcrumbs a:hover {
-  text-decoration: underline;
+  border-bottom: 1px solid transparent;
 }

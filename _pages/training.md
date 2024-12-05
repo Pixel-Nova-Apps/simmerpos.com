@@ -10,7 +10,7 @@ include_in_header: false
 
 # How to use Simmer
 
-This guide will walk you through how to use Simmer on a daily basis. If you have any questions, contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>.
+This guide will walk you through how to use Simmer on a daily basis. If you have any questions, contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>
 
 There is also a [tutorial video](https://youtu.be/whwQcWOMk_o?t=190) available.
 
