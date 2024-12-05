@@ -91,6 +91,8 @@ Tap the Simmer tile on your POS to start. You should see a grid of products.
 
 Tap **Tickets** in the top right then **Create ticket**. This will take you back to the product grid with your new ticket set as the current ticket.
 
+Alternatively, if no current ticket is set you can automatically create a ticket by adding a product.
+
 ### 3. Add products to the ticket
 
 Select a product from the grid. This will take you to the product page where you'll be able to select variants and modifiers. When you're happy, click **Add** in the top right and the product will be added to your ticket.
