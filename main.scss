@@ -431,3 +431,56 @@ h1 {
     max-width: 100%;
   }
 }
+
+.support-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+  margin: 40px 0;
+}
+
+.support-tile {
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 24px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.support-tile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-color: #999;
+}
+
+.tile-icon {
+  background: #f6f6f7;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.tile-icon svg {
+  color: #5e5344;
+}
+
+.support-tile h3 {
+  margin: 0 0 8px 0;
+  color: #212b36;
+}
+
+.support-tile p {
+  margin: 0;
+  color: #637381;
+  font-size: 0.9em;
+}
