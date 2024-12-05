@@ -407,3 +407,17 @@ h1 {
   }
 }
 
+.note-box {
+  background-color: #f8f9fa;
+  border-left: 4px solid #007bff;
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.note-box strong {
+  color: #007bff;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
