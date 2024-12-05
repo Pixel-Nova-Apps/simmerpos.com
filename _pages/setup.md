@@ -4,6 +4,10 @@ title: Setup
 include_in_header: false
 ---
 
+<nav class="breadcrumbs">
+  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; Setup
+</nav>
+
 # Set up Simmer
 
 This guide will walk you through the process of setting up Simmer. If you have any questions, please contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>.
@@ -61,3 +65,7 @@ Then select **Simmer**:
 Then select **Add**:
 
 <img src="/assets/add-tile-step-4.png" alt="Add POS tile step 4" class="support-image">
+
+<div class="note-box">
+<strong>Next step:</strong> Now that you have added the Simmer tile to your POS, you can start creating tickets. Learn how to use Simmer in the <a href="/training/">usage guide</a>.
+</div>

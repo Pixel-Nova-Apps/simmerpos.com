@@ -484,3 +484,17 @@ h1 {
   color: #637381;
   font-size: 0.9em;
 }
+
+.breadcrumbs {
+  margin-bottom: 2em;
+  color: #666;
+}
+
+.breadcrumbs a {
+  color: #666;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}

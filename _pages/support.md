@@ -4,6 +4,10 @@ title: Support
 include_in_header: false
 ---
 
+<nav class="breadcrumbs">
+  <a href="/">Home</a> &gt; Support
+</nav>
+
 # Support
 
 For questions, to book a demo or to request a feature, contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>.

@@ -4,6 +4,10 @@ title: Usage and staff training
 include_in_header: false
 ---
 
+<nav class="breadcrumbs">
+  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; Training
+</nav>
+
 # How to use Simmer
 
 This guide will walk you through how to use Simmer on a daily basis. If you have any questions, contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>.

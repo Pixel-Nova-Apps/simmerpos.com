@@ -4,6 +4,11 @@ title: Kitchen display (KDS) for Shopify
 include_in_header: false
 ---
 
+<nav class="breadcrumbs">
+  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; Kitchen display
+</nav>
+
+
 # Setting up a kitchen display (KDS)
 
 ## Create a kitchen display
