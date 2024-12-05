@@ -421,3 +421,13 @@ h1 {
   display: inline-block;
   margin-bottom: 0.5rem;
 }
+
+.support-image {
+  width: 100%;
+  max-width: 50%;
+  height: auto;
+  
+  @media screen and (max-width: 768px) {
+    max-width: 100%;
+  }
+}
