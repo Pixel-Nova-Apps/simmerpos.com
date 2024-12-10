@@ -6,6 +6,10 @@ include_in_header: true
 
 # Changelog
 
+### 12.10.2024 - Bug fixes
+
+Fixed a bug where single variant modifiers were not being displayed on the modifier App Block within Shopify Admin.
+
 ### 11.25.2024 - Improved ticket status updates
 
 Ticket status updates are now faster due to an improved API call.
