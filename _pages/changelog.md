@@ -42,7 +42,7 @@ You can now create kitchen displays from the Simmer dashboard! For V1 of kitchen
 
 You can create a kitchen display by heading to the Simmer dashboard and clicking **Add display**. You'll then be able to label the display and select the location.
 
-View the <a href="/support">support page</a> for more information and a tutorial video coming soon!
+View the <a href="/kitchen-display">KDS support page</a> for more information.
 
 ### 10.03.2024 - Ticket filters
 
