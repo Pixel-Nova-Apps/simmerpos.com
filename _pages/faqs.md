@@ -19,7 +19,7 @@ To reorder the menu grid shown on the Simmer POS extension you need to visit the
 
 You'll then be able to rearrange the products using:
 
-![Sorting Coffee Shop POS grid in Shopify Admin]({{ '/assets/faq-sorting-pos-grid.png' | relative_url }}){: .faq-image}
+![Sorting Coffee Shop POS grid in Shopify Admin]({{ '/assets/faq-sorting-pos-grid.png' | relative_url }}){: .support-image}
 
 ## How do I reorder modifiers? {#question2}
 
@@ -27,7 +27,7 @@ To reorder modifiers you need to visit the Shopify Admin, then Products, then cl
 
 Modifiers are sorted by the order they are added to the modifiers block:
 
-![Sorting Coffee Shop POS modifiers in Shopify Admin]({{ '/assets/faq-sorting-modifiers.png' | relative_url }}){: .faq-image}
+![Sorting Coffee Shop POS modifiers in Shopify Admin]({{ '/assets/faq-sorting-modifiers.png' | relative_url }}){: .support-image}
 
 ## How does Simmer work with the Shopify cart? {#question3}
 
@@ -37,7 +37,7 @@ Modifiers are shown below each line item. If there's a line item for one product
 
 For example you may have two Lattes, but one has Almond milk and the other has Soy milk, then the modifiers will be shown below each item:
 
-![Simmer Coffee Shop POS cart with modifiers]({{ '/assets/faq-modifiers-example.jpeg' | relative_url }}){: .faq-image}
+![Simmer Coffee Shop POS cart with modifiers]({{ '/assets/faq-modifiers-example.jpeg' | relative_url }}){: .support-image}
 
 ## How do I add non-menu products to the order? {#question4}
 

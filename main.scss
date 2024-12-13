@@ -169,7 +169,7 @@ article a {
 
 .feature-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 2rem;
 }
 
@@ -425,6 +425,26 @@ h1 {
 .support-image {
   width: 100%;
   max-width: 50%;
+  height: auto;
+  
+  @media screen and (max-width: 768px) {
+    max-width: 100%;
+  }
+}
+
+.support-image-small {
+  width: 100%;
+  max-width: 33%;
+  height: auto;
+  
+  @media screen and (max-width: 768px) {
+    max-width: 100%;
+  }
+}
+
+.support-image-large {
+  width: 100%;
+  max-width: 66%;
   height: auto;
   
   @media screen and (max-width: 768px) {

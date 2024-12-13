@@ -8,7 +8,6 @@ include_in_header: false
   <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; Kitchen display
 </nav>
 
-
 # Setting up a kitchen display (KDS)
 
 ## Create a kitchen display
