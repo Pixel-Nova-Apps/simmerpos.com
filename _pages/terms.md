@@ -109,19 +109,19 @@ Users are strictly prohibited from:
 
 Users agree to indemnify and hold Simmer harmless from:
 - Claims arising from user's use of the Simmer
-- Violations of these Terms of Use
+- Violations of these Terms of Service
 - Infringement of third-party rights
 
 ## 11. Modification of Terms
 
-11.1 Simmer reserves the right to modify these Terms of Use at any time.
+11.1 Simmer reserves the right to modify these Terms of Service at any time.
 
 11.2 Continued use of the Simmer after modifications constitutes acceptance of new terms.
 
 ## 12. Termination
 
 12.1 Simmer may terminate or suspend user access:
-- For violation of Terms of Use
+- For violation of Terms of Service
 - At its sole discretion
 - With or without notice
 
@@ -135,11 +135,11 @@ Users agree to indemnify and hold Simmer harmless from:
 
 ## 14. Governing Law
 
-These Terms of Use are governed by the laws of the jurisdiction where Simmer is registered.
+These Terms of Service are governed by the laws of the jurisdiction where Simmer is registered.
 
 ## 15. Contact Information
 
-For questions about these Terms of Use, contact:
+For questions about these Terms of Service, contact:
 - Email: simmer@pixelnova.co.nz
 
 ## 16. Severability
@@ -148,4 +148,4 @@ If any provision of these Terms is found to be invalid or unenforceable, the rem
 
 **Last Updated:** December 15 2024
 
-**By using the Simmer Shopify App, you acknowledge that you have read, understood, and agree to these Terms of Use.**
+**By using the Simmer Shopify App, you acknowledge that you have read, understood, and agree to these Terms of Service.**
