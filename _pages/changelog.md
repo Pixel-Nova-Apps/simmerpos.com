@@ -9,7 +9,7 @@ include_in_header: true
 <div class="changelog">
 
 <div class="feature-release">
-  <div class="date">Dec 14</div>
+  <div class="date">Dec 15</div>
   <h2>⭐️ New feature: Ticket printing 🚀</h2>
 
   <p><strong>Print tickets to the kitchen, bar and more!</strong></p>
