@@ -529,3 +529,88 @@ h1 {
   padding-top: 10px;
   margin: 20px 0;
 }
+
+.changelog {
+  position: relative;
+  padding-left: 120px; /* Increased to make room for dates */
+}
+
+.changelog::before {
+  content: '';
+  position: absolute;
+  left: 100px; /* Move line to new position */
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #e3e5e7;
+}
+
+.changelog-item, .feature-release {
+  position: relative;
+}
+
+.changelog-item {
+  padding-bottom: 20px;
+}
+
+.feature-release {
+  padding-bottom: 0px;
+  margin-bottom: 40px;
+}
+
+.changelog-item::before, .feature-release::before {
+  content: '';
+  position: absolute;
+  left: -40px;
+  top: 14px;
+  width: 22px;
+  height: 2px;
+}
+
+.changelog-item::before {
+  background: #e3e5e7;
+}
+
+.feature-release::before {
+  background: #e3e5e7;
+  left: -42px;
+}
+
+.date {
+  position: absolute;
+  left: -120px;
+  top: 4px;
+  width: 85px;
+  color: #6d7175;
+  font-size: 14px;
+}
+
+/* Remove dates from headings since they're now separate */
+.changelog h2, .changelog h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .changelog {
+    padding-left: 0px; /* Reduce left padding on mobile */
+  }
+
+  .changelog::before {
+    left: 0; /* Move timeline to the left edge on mobile */
+    width: 0px;
+  }
+
+  .changelog-item::before, .feature-release::before {
+    left: -16px; /* Adjust dot position for mobile */
+    height: 0px;
+  }
+
+  .date {
+    position: relative; /* Remove absolute positioning */
+    left: 0;
+    top: 0;
+    width: auto;
+    margin-bottom: 4px; /* Add some space between date and title */
+    font-size: 13px;
+  }
+}

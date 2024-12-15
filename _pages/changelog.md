@@ -6,8 +6,11 @@ include_in_header: true
 
 # Changelog
 
+<div class="changelog">
+
 <div class="feature-release">
-  <h2>⭐️ New Feature: Ticket printing - 12.14.2024 🚀</h2>
+  <div class="date">Dec 14</div>
+  <h2>⭐️ New feature: Ticket printing 🚀</h2>
 
   <p><strong>Print tickets to the kitchen, bar and more!</strong></p>
 
@@ -29,44 +32,66 @@ include_in_header: true
   <p>📖 View the <a href="/printer">printer support page</a> for more information.</p>
 </div>
 
-### 12.13.2024 - Ticket status renamings and KDS ticket time
+<div class="changelog-item">
+  <div class="date">Dec 13</div>
+  <h3>Ticket status renamings and KDS ticket time</h3>
 
-The **Closed** ticket status has been renamed to **Paid**. It is now possible to have **Paid** but incomplete tickets that are in the **Sent** or **Ready** kitchen status.
+  <p><strong>Closed</strong> ticket status has been renamed to <strong>Paid</strong>. It is now possible to have <strong>Paid</strong> but incomplete tickets that are in the <strong>Sent</strong> or <strong>Ready</strong> kitchen status.</p>
 
-We've added the ticket time to the KDS display. You can now see the time the ticket was sent to the kitchen screen. 
+  <p>We've added the ticket time to the KDS display. You can now see the time the ticket was sent to the kitchen screen.</p>
+</div>
 
-### 12.10.2024 - Bug fixes
+<div class="changelog-item">
+  <div class="date">Dec 10</div>
+  <h3>Bug fixes</h3>
 
-Fixed a bug where single variant modifiers were not being displayed on the modifier App Block within Shopify Admin.
+  <p>Fixed a bug where single variant modifiers were not being displayed on the modifier App Block within Shopify Admin.</p>
+</div>
 
-### 11.25.2024 - Improved ticket status updates
+<div class="changelog-item">
+  <div class="date">Nov 25</div>
+  <h3>Improved ticket status updates</h3>
 
-Ticket status updates are now faster due to an improved API call.
+  <p>Ticket status updates are now faster due to an improved API call.</p>
+</div>
 
-### 11.19.2024 - Modifier fix
+<div class="changelog-item">
+  <div class="date">Nov 19</div>
+  <h3>Modifier fix</h3>
 
-Fixed a bug where modifiers were not always being displayed in desired order.
+  <p>Fixed a bug where modifiers were not always being displayed in desired order.</p>
+</div>
 
-### 11.18.2024 - Improvements and fixes
+<div class="changelog-item">
+  <div class="date">Nov 18</div>
+  <h3>Improvements and fixes</h3>
 
-You can now see modifier pricing (e.g +$1.00) on the product screen.
+  <p>You can now see modifier pricing (e.g +$1.00) on the product screen.</p>
 
-The POS tile can now be added directly from POS (previously it was only possible from the Admin).
+  <p>The POS tile can now be added directly from POS (previously it was only possible from the Admin).</p>
+</div>
 
-### 11.15.2024 - Product screen bug fix
+<div class="changelog-item">
+  <div class="date">Nov 15</div>
+  <h3>Product screen bug fix</h3>
 
-Fixed a bug where having a large number of variants would disapear off the screen. They now wrap to the next line.
+  <p>Fixed a bug where having a large number of variants would disapear off the screen. They now wrap to the next line.</p>
+</div>
 
-### 11.14.2024 - Workflow improvements
+<div class="changelog-item">
+  <div class="date">Nov 14</div>
+  <h3>Workflow improvements</h3>
 
-Simmer will now automatically create a new ticket if no current ticket is selected. This will save time if you forget to create a new ticket before trying to add a product.
+  <p>Simmer will now automatically create a new ticket if no current ticket is selected. This will save time if you forget to create a new ticket before trying to add a product.</p>
 
-When you click **add to cart** Simmer will only show the confirmation modal if there are products already in the cart. And you now have the option to clear the cart or leave the cart as is.
+  <p>When you click <strong>add to cart</strong> Simmer will only show the confirmation modal if there are products already in the cart. And you now have the option to clear the cart or leave the cart as is.</p>
 
-We really appreciate all the feedback we've received from merchants. Please keep it coming!
+  <p>🙏 We really appreciate all the feedback we've received from merchants. Please keep it coming! </p>
+</div>
 
 <div class="feature-release">
-  <h2>⭐️ New Feature: Kitchen Displays (KDS) - 11.07.2024 🚀</h2>
+  <div class="date">Nov 7</div>
+  <h2>⭐️ New feature: Kitchen Displays (KDS) 🚀</h2>
 
   <p><strong>Transform any device into a powerful kitchen display system!</strong></p>
 
@@ -90,10 +115,18 @@ We really appreciate all the feedback we've received from merchants. Please keep
   <p>📖 View the <a href="/kitchen-display">KDS support page</a> for more information.</p>
 </div>
 
-### 10.03.2024 - Ticket filters
+<div class="changelog-item">
+  <div class="date">Oct 3</div>
+  <h3>Ticket filters</h3>
 
-Added filters to the Tickets screen to keep the open tickets screen cleaner. There are now three filters: Open, Closed and Canceled.
+  <p>Added filters to the Tickets screen to keep the open tickets screen cleaner. There are now three filters: Open, Closed and Canceled.</p>
+</div>
 
-### 10.02.2024
+<div class="changelog-item">
+  <div class="date">Oct 2</div>
+  <h3>Simmer is born!</h3>
 
-Simmer is born!
+  <p>Hello world!</p>
+</div>
+
+</div>
