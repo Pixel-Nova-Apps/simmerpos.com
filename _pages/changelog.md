@@ -6,6 +6,35 @@ include_in_header: true
 
 # Changelog
 
+<div class="feature-release">
+  <h2>⭐️ New Feature: Ticket printing - 12.14.2024 🚀</h2>
+
+  <p><strong>Print tickets to the kitchen, bar and more!</strong></p>
+
+  <p>Simmer currently supports the following printers with <strong>Server Direct Print</strong>:</p>
+
+  <ul>
+    <li>Epson TM-DT series</li>
+    <li>Epson TM-i series</li>
+    <li>Epson TM-T88VI</li>
+  </ul>
+
+  <h3>Coming soon:</h3>
+
+  <ul>
+    <li>Star Micronics printer support.</li>
+    <li>Print directly to the POS connected printer.</li>
+  </ul>
+
+  <p>📖 View the <a href="/printer">printer support page</a> for more information.</p>
+</div>
+
+### 12.13.2024 - Ticket status renamings and KDS ticket time
+
+The **Closed** ticket status has been renamed to **Paid**. It is now possible to have **Paid** but incomplete tickets that are in the **Sent** or **Ready** kitchen status.
+
+We've added the ticket time to the KDS display. You can now see the time the ticket was sent to the kitchen screen. 
+
 ### 12.10.2024 - Bug fixes
 
 Fixed a bug where single variant modifiers were not being displayed on the modifier App Block within Shopify Admin.
@@ -36,13 +65,30 @@ When you click **add to cart** Simmer will only show the confirmation modal if t
 
 We really appreciate all the feedback we've received from merchants. Please keep it coming!
 
-### 11.07.2024 - Kitchen displays (KDS)
+<div class="feature-release">
+  <h2>⭐️ New Feature: Kitchen Displays (KDS) - 11.07.2024 🚀</h2>
 
-You can now create kitchen displays from the Simmer dashboard! For V1 of kitchen displays we've focused on maximizing the range of devices that can be used. Kitchen displays will work on any device with a web browser including iPads, Chromebooks, Smart TVs and laptops. You'll also be able to create a POS tile using the Link feature.
+  <p><strong>Transform any device into a powerful kitchen display system!</strong></p>
 
-You can create a kitchen display by heading to the Simmer dashboard and clicking **Add display**. You'll then be able to label the display and select the location.
+  <p>You can now create kitchen displays from the Simmer dashboard! For V1 of kitchen displays we've focused on maximizing the range of devices that can be used. Kitchen displays will work on any device with a web browser including:</p>
+  <ul>
+      <li>📱 iPads</li>
+      <li>💻 Chromebooks</li>
+      <li>📺 Smart TVs</li>
+      <li>💻 Laptops</li>
+  </ul>
 
-View the <a href="/kitchen-display">KDS support page</a> for more information.
+  <p>You'll also be able to create a POS tile using the Link feature.</p>
+
+  <h3>Getting Started</h3>
+  <ol>
+      <li>Head to the Simmer dashboard</li>
+      <li>Click <strong>Add display</strong></li>
+      <li>Label your display and select the location</li>
+  </ol>
+
+  <p>📖 View the <a href="/kitchen-display">KDS support page</a> for more information.</p>
+</div>
 
 ### 10.03.2024 - Ticket filters
 
