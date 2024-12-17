@@ -9,6 +9,26 @@ include_in_header: true
 <div class="changelog">
 
 <div class="feature-release">
+  <div class="date">Dec 17</div>
+  <h2>⭐️ New feature: Product grid folders 🚀</h2>
+
+  <p>You can now create folders in the product grid. This allows you to group products together and make it easier to find them.</p>
+
+  <p>To create folders, visit the Simmer Dashboard and select <strong>Add a folder</strong>. This will create collection within Shopify that you can use to assign products to.</p>
+
+  <p>Folders will be displayed at the top of the product grid.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">Dec 16</div>
+  <h3>Ticket and KDS UI tweaks and fixes</h3>
+
+  <p>The layout of the ticket information has been improved. The ticket name/table number is now shown in the title bar and the ticket information is now shown in a more readable format.</p>
+
+  <p>Fixed a UI glitch where a an empty bullet point was showing in the KDS display for single variant products.</p>
+</div>
+
+<div class="feature-release">
   <div class="date">Dec 15</div>
   <h2>⭐️ New feature: Ticket printing 🚀</h2>
 
