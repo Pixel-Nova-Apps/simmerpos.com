@@ -8,6 +8,13 @@ include_in_header: true
 
 <div class="changelog">
 
+<div class="changelog-item">
+  <div class="date">Dec 23</div>
+  <h3>Ticket creation double tap fix</h3>
+
+  <p>Some merchants were accidentally creating multiple tickets because they were double tapping the <strong>Create ticket</strong> button. This has now been fixed as Simmer now disables the button after it has been clicked.</p>
+</div>
+
 <div class="feature-release">
   <div class="date">Dec 17</div>
   <h2>⭐️ New feature: Product grid folders 🚀</h2>
