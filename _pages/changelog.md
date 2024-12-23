@@ -12,7 +12,7 @@ include_in_header: true
   <div class="date">Dec 23</div>
   <h3>Ticket creation double tap fix</h3>
 
-  <p>Some merchants were accidentally creating multiple tickets because they were double tapping the <strong>Create ticket</strong> button. This has now been fixed as Simmer now disables the button after it has been clicked.</p>
+  <p>It was possible to create multiple tickets by double tapping the <strong>Create ticket</strong> button. This has now been fixed as Simmer now disables the button after it has been clicked once.</p>
 </div>
 
 <div class="feature-release">
