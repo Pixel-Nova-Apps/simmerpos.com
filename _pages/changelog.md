@@ -9,6 +9,13 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Dec 28</div>
+  <h3>Apostrophe in product title fix</h3>
+
+  <p>Fixed a bug where an apostrophe in a product title would cause an issue where it would not be possible to add the product to the ticket.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Dec 23</div>
   <h3>Ticket creation double tap fix</h3>
 

@@ -6,6 +6,10 @@ include_in_header: false
 
 # Terms of Service
 
+## Company Information
+
+Simmer is a product of Pixel Nova Limited.
+
 ## 1. Acceptance of Terms
 
 By accessing or using the Simmer Shopify App, you agree to be bound by these Terms of Service. If you do not agree to these terms, do not use Simmer.
