@@ -15,6 +15,8 @@ include_in_header: true
   <p>Happy New Year! 🎉</p>
 
   <p>It's now possible to view the current ticket from the product screen. From the product screen click <strong>View</strong> in the ticket section to quickly view the current ticket, the back button will take you back to the product screen.</p>
+
+  <p>Note that you'll only be able to view the current ticket if there is a ticket open.</p>
 </div>
 
 
