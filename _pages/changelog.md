@@ -9,6 +9,14 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Jan 13</div>
+  <h3>Workflow improvements</h3>
+
+  <p>It's now possible to view the current ticket from the product screen. From the product screen click **View** in the ticket section to quickly view the current ticket, the back button will take you back to the product screen.</p>
+</div>
+
+
+<div class="changelog-item">
   <div class="date">Dec 28</div>
   <h3>Apostrophe in product title fix</h3>
 
