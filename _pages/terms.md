@@ -144,7 +144,7 @@ These Terms of Service are governed by the laws of the jurisdiction where Simmer
 ## 15. Contact Information
 
 For questions about these Terms of Service, contact:
-- Email: simmer@pixelnova.co.nz
+- Email: help@simmerpos.com
 
 ## 16. Severability
 

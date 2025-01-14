@@ -16,7 +16,7 @@ Simmer currently supports the following printers with **Server Direct Print**:
 - Epson TM-i series
 - Epson TM-T88VI
 
-If you are unsure if your printer supports **Server Direct Print**, please contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>.
+If you are unsure if your printer supports **Server Direct Print**, please contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
 
 Star Micronics printer support is coming soon.
 

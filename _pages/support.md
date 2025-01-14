@@ -10,7 +10,7 @@ include_in_header: false
 
 # Support
 
-For questions, to book a demo or to request a feature, contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>
+For questions, to book a demo or to request a feature, contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>
 
 <div class="support-tiles">
   <a href="/setup/" class="support-tile">

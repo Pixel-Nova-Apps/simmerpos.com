@@ -10,7 +10,7 @@ include_in_header: false
 
 # Setting up Simmer
 
-This guide will walk you through the process of setting up Simmer. If you have any questions, please contact <a href="mailto:simmer@pixelnova.co.nz">simmer@pixelnova.co.nz</a>
+This guide will walk you through the process of setting up Simmer. If you have any questions, please contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>
 
 ### 1. Create the required Simmer collections
 
