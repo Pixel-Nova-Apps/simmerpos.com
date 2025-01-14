@@ -8,6 +8,17 @@ include_in_header: true
 
 <div class="changelog">
 
+
+<div class="changelog-item">
+  <div class="date">Jan 14</div>
+  <h3>Support improvements & UI tweaks</h3>
+
+  <p>Simmer's support email address is now help@simmerpos.com. Please update your records.</p>
+
+  <p>The KDS now displays an empty state when there are no tickets in the kitchen and minor improvement to the way folders are displayed in the Admin.</p>
+</div>
+
+
 <div class="changelog-item">
   <div class="date">Jan 13</div>
   <h3>Workflow improvements</h3>
