@@ -11,7 +11,7 @@
         <main>
           <section class="hero">
             <div class="hero-content">
-              <h1 class="hero-title">The Coffee Shop Solution for Shopify POS</h1>
+              <h1 class="hero-title">Your <span id="business-type">coffee shop</span> now works with Shopify POS</h1>
               <p class="hero-description">Whether you're running a bustling café or an intimate restaurant, Simmer grows with your business. Reduce complexity, minimize manual work, and focus on what matters most — delighting your customers</p>
               <a href="https://apps.shopify.com/simmer" style="width: 250px; display: inline-block; text-align: center;">
                 <img src="{{ '/assets/appstore.png' | relative_url }}" alt="Available on Shopify App Store" style="max-width: 100%; height: auto;">
@@ -76,5 +76,27 @@
         </main>
         {% include footer.html %}
     </div>
+
+    <script>
+      const businessTypes = ['coffee shop', 'diner', 'restaurant', 'cafe'];
+      let currentIndex = 0;
+      
+      function cycleBusinessType() {
+        const element = document.getElementById('business-type');
+        currentIndex = (currentIndex + 1) % businessTypes.length;
+        element.style.opacity = '0';
+        
+        setTimeout(() => {
+          element.textContent = businessTypes[currentIndex];
+          element.style.opacity = '1';
+        }, 500);
+      }
+
+      // Add fade transition
+      document.getElementById('business-type').style.transition = 'opacity 0.5s ease';
+      
+      // Cycle every 3 seconds
+      setInterval(cycleBusinessType, 3000);
+    </script>
   </body> 
 </html>
