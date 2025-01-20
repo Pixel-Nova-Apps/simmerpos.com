@@ -10,7 +10,7 @@ include_in_header: false
 
 # Star Micronics printer guide
 
-Simmer currently supports Star Micronics printers with **CloudPRNT**:
+Simmer currently supports Star Micronics printers with **CloudPRNT**.
 
 If you are unsure if your printer supports **CloudPRNT**, please contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
 
