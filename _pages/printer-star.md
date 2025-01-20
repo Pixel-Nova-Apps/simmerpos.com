@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 <nav class="breadcrumbs">
-  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; <a href="/printer/">Printers</a> &gt; Star Micronics printer
+  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; <a href="/printer/">Printers</a> &gt; Star Micronics
 </nav>
 
 # Star Micronics printer guide

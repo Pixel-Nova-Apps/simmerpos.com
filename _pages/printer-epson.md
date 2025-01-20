@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 <nav class="breadcrumbs">
-  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; <a href="/printer/">Printers</a> &gt; Epson printer
+  <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; <a href="/printer/">Printers</a> &gt; Epson
 </nav>
 
 # Epson ticket printer guide
