@@ -4,6 +4,21 @@ title: Changelog
 include_in_header: true
 ---
 
+# Up next
+
+<div class="changelog">
+
+<div class="feature-release up-next">
+  <div class="date">Soon!</div>
+  <h2>Online orders</h2>
+
+  <p>Simmer will soon support online orders. This will allow you to create tickets from your online store and have them show up in the Simmer extension, on KDS and print to your printer.</p>
+
+  <p>Please email <a href="mailto:help@simmerpos.com">help@simmerpos.com</a> if you'd like early access or to be notified when this feature is released.</p>
+</div>
+
+</div>
+
 # Changelog
 
 <div class="changelog">
