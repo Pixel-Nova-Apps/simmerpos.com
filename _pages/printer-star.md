@@ -36,7 +36,14 @@ If you are unsure if your printer supports **CloudPRNT**, please contact <a href
 
 ### 1. Navigate to your printer's LAN address:
 
-Consult your printer's documentation to find the IP address of your printer.
+How to find your printer's LAN address:
+
+- Ensure printer is turned off
+- Hold down the feed button
+- Turn printer on while holding the feed button
+- Release feed button once it starts printing
+
+Your printer should print out a receipt with your printer's LAN address. Enter this into your browser to navigate to the printer's settings page, e.g `http://192.168.1.100`. (replace with your printer's actual IP address).
 
 ### 2. Click **Login**
 
