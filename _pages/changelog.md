@@ -35,6 +35,8 @@ include_in_header: true
   <h3>Minor fixes</h3>
 
   <p>Minor bug fix on the Admin product block where all products were being displayed if there were no products in the modifiers collection.</p>
+
+  <p>Tweak to the 'copy' button in the Admin app where it now display a message if copying is not supported by your browser.</p>
 </div>
 
 <div class="changelog-item">
