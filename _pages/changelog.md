@@ -8,6 +8,19 @@ include_in_header: true
 
 <div class="changelog">
 
+<div class="changelog-item">
+  <div class="date">Jan 20</div>
+  <h3>Star Micronics printer support</h3>
+
+  <p>Simmer now supports Star Micronics printers with CloudPRNT. Learn how to set up your Star Micronics printer <a href="/printer-star">here</a>.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">Jan 18</div>
+  <h3>Minor fixes</h3>
+
+  <p>Minor bug fix on the Admin product block where all products were being displayed if there were no products in the modifiers collection.</p>
+</div>
 
 <div class="changelog-item">
   <div class="date">Jan 14</div>
@@ -17,7 +30,6 @@ include_in_header: true
 
   <p>The KDS now displays an empty state when there are no tickets in the kitchen and minor improvement to the way folders are displayed in the Admin.</p>
 </div>
-
 
 <div class="changelog-item">
   <div class="date">Jan 13</div>
@@ -29,7 +41,6 @@ include_in_header: true
 
   <p>Note that you'll only be able to view the current ticket if there is a ticket open.</p>
 </div>
-
 
 <div class="changelog-item">
   <div class="date">Dec 28</div>
