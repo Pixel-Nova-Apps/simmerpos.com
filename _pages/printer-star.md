@@ -12,7 +12,7 @@ include_in_header: false
 
 Simmer currently supports Star Micronics printers with **CloudPRNT**.
 
-If you are unsure if your printer supports **CloudPRNT**, please contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
+If you are unsure if your printer supports **CloudPRNT** visit the Star Micronics <a href="https://star-m.jp/products/s_print/sdk/StarCloudPRNT/manual/en/index.html" target="_blank">website</a> or contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
 
 ## Create a ticket printer
 
@@ -59,19 +59,19 @@ Your printer should print out a receipt with your printer's LAN address. Enter t
 
 ### 5. Enter the URL, ID, and Password provided by Simmer
 
-<img src="/assets/star-admin/4.png" alt="TM-i Settings" class="support-image-large">
+<img src="/assets/star-admin/4.png" alt="Printer credentials" class="support-image-large">
 
 ### 6. Click **Submit**
 
-<img src="/assets/star-admin/5.png" alt="Server Direct Print" class="support-image-large">
+<img src="/assets/star-admin/5.png" alt="Submit" class="support-image-large">
 
 ### 7. Click **Execute**
 
-<img src="/assets/star-admin/6.png" alt="Enable Server Direct Print" class="support-image-large">
+<img src="/assets/star-admin/6.png" alt="Execute" class="support-image-large">
 
 ### 8. Wait for your printer to restart
 
-<img src="/assets/star-admin/7.png" alt="Enable Server Direct Print" class="support-image-large">
+<img src="/assets/star-admin/7.png" alt="Restart" class="support-image-large">
 
 
 ## Print tickets
