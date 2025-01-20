@@ -12,7 +12,7 @@ include_in_header: false
 
 Simmer currently supports Star Micronics printers with **CloudPRNT**.
 
-If you are unsure if your printer supports **CloudPRNT** visit the Star Micronics <a href="https://star-m.jp/products/s_print/sdk/StarCloudPRNT/manual/en/index.html" target="_blank">website</a> or contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
+If you are unsure if your printer supports **CloudPRNT** visit the Star Micronics <a href="https://star-emea.com/products/cloudprnt/" target="_blank">website</a> or contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
 
 ## Create a ticket printer
 
