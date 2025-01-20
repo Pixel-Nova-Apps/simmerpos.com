@@ -10,13 +10,17 @@ include_in_header: false
 
 # Star Micronics printer guide
 
+Simmer currently supports Star Micronics printers with **CloudPRNT**:
+
+If you are unsure if your printer supports **CloudPRNT**, please contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
+
 ## Create a ticket printer
 
 ### 1. Add printer from the Simmer dashboard:
 
 <img src="/assets/epson-admin/add-printer.png" alt="Add printer" class="support-image">
 
-### 2. Give your printer a name and select the Shopify location you want to use it in:
+### 2. Give your printer a name, brand and select the Shopify location you want to use it in:
 
 <img src="/assets/epson-admin/create-printer.png" alt="Create printer" class="support-image">
 

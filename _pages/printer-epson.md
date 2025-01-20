@@ -10,13 +10,21 @@ include_in_header: false
 
 # Epson ticket printer guide
 
+Simmer currently supports the following Epson printers with **Server Direct Print**:
+
+- Epson TM-DT series, 
+- Epson TM-i series
+- Epson TM-T88VI
+
+If you are unsure if your printer supports **Server Direct Print**, please contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>.
+
 ## Create a ticket printer
 
 ### 1. Add printer from the Simmer dashboard:
 
 <img src="/assets/epson-admin/add-printer.png" alt="Add printer" class="support-image">
 
-### 2. Give your printer a name and select the Shopify location you want to use it in:
+### 2. Give your printer a name, brand and select the Shopify location you want to use it in:
 
 <img src="/assets/epson-admin/create-printer.png" alt="Create printer" class="support-image">
 
