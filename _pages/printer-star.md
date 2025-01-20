@@ -22,7 +22,7 @@ If you are unsure if your printer supports **CloudPRNT** visit the Star Micronic
 
 ### 2. Give your printer a name, brand and select the Shopify location you want to use it in:
 
-<img src="/assets/epson-admin/create-printer.png" alt="Create printer" class="support-image">
+<img src="/assets/star-admin/create-printer-star.png" alt="Create printer" class="support-image">
 
 ### 3. Use the printer's credentials in the following guide on how to configure the printer:
 
