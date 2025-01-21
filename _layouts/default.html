@@ -11,7 +11,7 @@
         <main>
           <section class="hero">
             <div class="hero-content">
-              <h1 class="hero-title">Your <span id="business-type">coffee shop</span> now works with Shopify POS</h1>
+              <h1 class="hero-title">Your food service business on Shopify</h1>
               <p class="hero-description">Whether you're running a bustling café or an intimate restaurant, Simmer grows with your business. Reduce complexity, minimize manual work, and focus on what matters most — delighting your customers</p>
               <a href="https://apps.shopify.com/simmer" style="width: 250px; display: inline-block; text-align: center;">
                 <img src="{{ '/assets/appstore.png' | relative_url }}" alt="Available on Shopify App Store" style="max-width: 100%; height: auto;">
@@ -23,7 +23,7 @@
           </section>
       
           <section id="features" class="features">
-            <h2 class="features-title">All you need to run your food service business on Shopify</h2>
+            <h2 class="features-title">All you need to run your <span id="business-type">coffee shop</span><span class="cursor">|</span> on Shopify</h2>
             <div class="feature-grid">
               <div class="feature-item">
                 <i class="fas fa-sync-alt"></i>
@@ -80,23 +80,59 @@
     <script>
       const businessTypes = ['coffee shop', 'diner', 'restaurant', 'café', 'winery', 'brewery', 'bakery'];
       let currentIndex = 0;
+      let isDeleting = false;
+      let currentText = '';
+      let typingSpeed = 100; // Speed for typing each character
+      let deletingSpeed = 50; // Speed for deleting each character
+      let pauseBeforeDelete = 1500; // How long to wait before starting to delete
+      let pauseBeforeNewWord = 500; // How long to wait before typing new word
       
-      function cycleBusinessType() {
+      function typeEffect() {
         const element = document.getElementById('business-type');
-        currentIndex = (currentIndex + 1) % businessTypes.length;
-        element.style.opacity = '0';
+        const fullText = businessTypes[currentIndex];
         
-        setTimeout(() => {
-          element.textContent = businessTypes[currentIndex];
-          element.style.opacity = '1';
-        }, 500);
+        if (!isDeleting) {
+          // Typing
+          currentText = fullText.substring(0, currentText.length + 1);
+          element.textContent = currentText;
+          
+          if (currentText === fullText) {
+            isDeleting = true;
+            setTimeout(typeEffect, pauseBeforeDelete);
+            return;
+          }
+          
+          setTimeout(typeEffect, typingSpeed);
+        } else {
+          // Deleting
+          currentText = fullText.substring(0, currentText.length - 1);
+          element.textContent = currentText;
+          
+          if (currentText === '') {
+            isDeleting = false;
+            currentIndex = (currentIndex + 1) % businessTypes.length;
+            setTimeout(typeEffect, pauseBeforeNewWord);
+            return;
+          }
+          
+          setTimeout(typeEffect, deletingSpeed);
+        }
       }
 
-      // Add fade transition
-      document.getElementById('business-type').style.transition = 'opacity 0.5s ease';
-      
-      // Cycle every 3 seconds
-      setInterval(cycleBusinessType, 3000);
+      // Start the typing effect
+      typeEffect();
     </script>
+
+    <style>
+      .cursor {
+        font-weight: bold;
+        animation: blink 1s infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
   </body> 
 </html>
