@@ -25,9 +25,11 @@ include_in_header: true
 
 <div class="changelog-item">
   <div class="date">Jan 21</div>
-  <h3>Kitchen display item status</h3>
+  <h3>Kitchen display item status & printed ticket improvements</h3>
 
   <p>You can now mark each item on a ticket as ready by clicking the item title. This will put a line through the item so you can easily see which items are ready.</p>
+
+  <p>The printed ticket now has additional space at the top for ticket holders.</p>
 </div>
 
 <div class="changelog-item">
