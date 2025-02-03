@@ -24,6 +24,13 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Feb 3</div>
+  <h3>Add to cart performance improvements</h3>
+
+  <p>Simmer now uses a new Shopify API for adding items to the POS cart. This will massively improve the performance of adding items to the cart, especially when there are a large number of products.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Jan 21</div>
   <h3>Kitchen display item status & printed ticket improvements</h3>
 
