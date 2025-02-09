@@ -24,6 +24,15 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Feb 10</div>
+  <h3>Printer and KDS filtering</h3>
+
+  <p>You can now filter which products are printed to each printer or displayed on each KDS. If you have a kitchen and bar printer you can tag products as 'kitchen' or 'bar' and they will only be printed to the relevant printer. Same with KDS.</p>
+
+  <p>To set this up go to 'KDS and printers' in the Simmer dashboard, and either edit or add a new printer or KDS, then select the tags you want to filter by.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Feb 3</div>
   <h3>Add to cart performance improvements</h3>
 
