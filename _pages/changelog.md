@@ -23,9 +23,9 @@ include_in_header: true
 
 <div class="changelog">
 
-<div class="changelog-item">
+<div class="feature-release">
   <div class="date">Feb 10</div>
-  <h3>Printer and KDS filtering</h3>
+  <h2>⭐️ New feature: Printer and KDS filtering 🚀</h2>
 
   <p>You can now filter which products are printed to each printer or displayed on each KDS. If you have a kitchen and bar printer you can tag products as 'kitchen' or 'bar' and they will only be printed to the relevant printer. Same with KDS.</p>
 
