@@ -23,8 +23,11 @@ Select your printer brand to view the setup guide:
   </a>
 </div>
 
-# Bluetooth printers
+# Local printers
 
-Learn how to set up the printer attached to your POS.
-
-(Coming soon)
+<div class="support-tiles">
+  <a href="/printer-local" class="support-tile">
+    <h3>Local printers</h3>
+    <p>Learn how to set up AirPrint (iOS) and Bluetooth (Android) printers</p>
+  </a>
+</div>
