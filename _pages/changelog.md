@@ -25,9 +25,9 @@ include_in_header: true
 
 <div class="changelog-item">
   <div class="date">Feb 11</div>
-  <h3>Print locally using AirPrint on iOS and Bluetooth on Android</h3>
+  <h3>Print locally using AirPrint on iOS or system print dialog on Android</h3>
 
-  <p>Simmer now supports the new Shopify POS Print API which allows printing to local AirPrint (iOS) and Bluetooth (Android) printers. To add a local printer go to the <strong>KDS and printers</strong> section in the Simmer dashboard, select <strong>Add printer</strong> and select the printer type <strong>Local printer (iOS/Android)</strong>.</p>
+  <p>Simmer now supports the new Shopify POS Print API which allows printing to local AirPrint (iOS) or system print dialog (Android) printers. To add a local printer go to the <strong>KDS and printers</strong> section in the Simmer dashboard, select <strong>Add printer</strong> and select the printer type <strong>Local printer (iOS/Android)</strong>.</p>
 </div>
 
 <div class="feature-release">
