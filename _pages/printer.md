@@ -28,6 +28,6 @@ Select your printer brand to view the setup guide:
 <div class="support-tiles">
   <a href="/printer-local" class="support-tile">
     <h3>Local printers</h3>
-    <p>Learn how to set up AirPrint (iOS) and Bluetooth (Android) printers</p>
+    <p>Learn how to set up AirPrint (iOS) or system print dialog (Android)</p>
   </a>
 </div>

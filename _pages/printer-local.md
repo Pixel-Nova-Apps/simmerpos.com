@@ -10,7 +10,7 @@ include_in_header: false
 
 # Local printers
 
-Learn how to set up AirPrint (iOS) and Bluetooth (Android) printers.
+Learn how to set up AirPrint (iOS) or system print dialog (Android) printers.
 
 <div class="note-box">
 <strong>Note:</strong> This printing method does not support the printer attached to your POS using the printer settings within Shopify POS and should only be used if you don't have a network compatible printer as it adds an extra step to the printing process.    
