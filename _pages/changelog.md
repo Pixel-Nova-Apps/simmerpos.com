@@ -23,6 +23,14 @@ include_in_header: true
 
 <div class="changelog">
 
+
+<div class="changelog-item">
+  <div class="date">Feb 12</div>
+  <h3>Barcode scanning</h3>
+
+  <p>You can now scan barcodes from any screen and it will take you to the matching product. If you don't have a barcode scanner you can use the device camera to scan barcodes by going to the <strong>search tile</strong>, then clicking <strong>scan</strong>.</p>
+</div>
+
 <div class="changelog-item">
   <div class="date">Feb 11</div>
   <h3>Print locally using AirPrint on iOS or system print dialog on Android</h3>
