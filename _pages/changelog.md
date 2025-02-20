@@ -25,6 +25,17 @@ include_in_header: true
 
 
 <div class="changelog-item">
+  <div class="date">Feb 21</div>
+  <h3>Workflow improvements</h3>
+
+  <p>It is now possible to create a ticket directly from the main screen. If there is no current ticket you will see a button to <strong>Create ticket</strong>. Note that due to space limitations this will only be available on tablets.</p>
+
+  <p>And there's now a direct link from the current ticket shown on the main grid to the ticket details screen which means you can now add the ticket name or table number within a single tap.</p>
+
+  <p>We've also improved the way the ticket information is displayed on the main screen.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Feb 12</div>
   <h3>Barcode scanning</h3>
 
