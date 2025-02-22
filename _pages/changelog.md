@@ -28,7 +28,7 @@ include_in_header: true
   <div class="date">Feb 21</div>
   <h3>Workflow improvements</h3>
 
-  <p>It is now possible to create a ticket directly from the main screen. If there is no current ticket you will see a button to <strong>Create ticket</strong>. Note that due to space limitations this will only be available on tablets.</p>
+  <p>It is now possible to create a ticket directly from the main screen. If there is no current ticket you will see a button to <strong>Create ticket</strong>.</p>
 
   <p>And there's now a direct link from the current ticket shown on the main grid to the ticket details screen which means you can now add the ticket name or table number within a single tap.</p>
 
