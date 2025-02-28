@@ -23,17 +23,16 @@ include_in_header: true
 
 <div class="changelog">
 
-
 <div class="changelog-item">
-
   <div class="date">Feb 28</div>
   <h3>Total ticket price and component updates</h3>
 
   <p>You'll now be able to see the total ticket price on the current ticket preview on the main screen.</p>
 
   <p>We've also updated the POS components to use the latest Shopify UI library. You'll notice a few slight visual changes.</p>
+</div>
 
-  </div>
+<div class="changelog-item">
 
   <div class="date">Feb 21</div>
   <h3>Workflow improvements</h3>
