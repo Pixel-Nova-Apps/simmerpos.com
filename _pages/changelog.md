@@ -24,6 +24,16 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Mar 9</div>
+  <h3>Search improvements, tiles and ticket screen updates</h3>
+  <p>The search feature now has the option to search by products assigned to Simmer collections or your entire Shopify store. The default is to only search Simmer collections as this was the most common request.</p>
+
+  <p>Grid tiles in Simmer can now show multiple lines of text. This will allow products with longer names to be displayed more clearly.</p>
+
+  <p>The total ticket price is now displayed on the ticket screen in addition to the ticket preview.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Feb 28</div>
   <h3>Total ticket price and component updates</h3>
 
