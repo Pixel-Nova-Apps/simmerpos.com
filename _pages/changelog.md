@@ -24,6 +24,16 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Apr 3</div>
+  <h3>Staff attribution and minor improvements</h3>
+  <p>There's now an option to set staff attribution to line items added to the POS cart via Simmer. You can do this by going to the Simmer Admin app then Settings.</p>
+
+  <p>Minor improvements to the way Simmer handles Shopify API outages and errors.</p>
+
+  <p>We are still working on the online store feature!</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Mar 9</div>
   <h3>Search improvements, tiles and ticket screen updates</h3>
   <p>The search feature now has the option to search by products assigned to Simmer collections or your entire Shopify store. The default is to only search Simmer collections as this was the most common request.</p>
