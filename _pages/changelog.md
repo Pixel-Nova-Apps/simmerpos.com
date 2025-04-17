@@ -24,6 +24,20 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Apr 18</div>
+  <h3>Ticket auto-sending</h3>
+  <p>In a step towards being able to accept online orders it is now possible to enable ticket auto-sending. This means that you no longer have to manually send tickets to KDS or printers and can auto-send upon payment completion. For businesses that accept payment after service this will not apply, and is an optional feature.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">Apr 17</div>
+  <h3>Folder pinning</h3>
+  <p>Folders can now be pinned as the main folder shown when you load Simmer. This allows businesses that offer different items at different times of a day a more refined workflow.</p>
+
+  <p>You can pin and upin a folder by using the pin tile at the bottom of the product grid.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Apr 3</div>
   <h3>Staff attribution and minor improvements</h3>
   <p>There's now an option to set staff attribution to line items added to the POS cart via Simmer. You can do this by going to the Simmer Admin app then Settings.</p>
