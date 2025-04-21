@@ -24,6 +24,12 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Apr 21</div>
+  <h3>KDS improvements</h3>
+  <p>KDS has been rewritten to be faster and more responsive. You'll no longer see the entire page refresh when you update a ticket or new tickets appear which reduces the chance of missing the "Ready" button and or when marking items as ready.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Apr 18</div>
   <h3>Ticket auto-sending</h3>
   <p>In a step towards being able to accept online orders it is now possible to enable ticket auto-sending. This means that you no longer have to manually send tickets to KDS or printers and can auto-send upon payment completion. For businesses that accept payment after service this will not apply, and is an optional feature.</p>
