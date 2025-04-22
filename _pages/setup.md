@@ -28,9 +28,9 @@ From the collection page, click **Browse**:
 
 <img src="/assets/browse-modifier-products.png" alt="Browse collection" class="support-image">
 
-Then select all of your modifier products and click **Add**:
+Then select all of your grid products and click **Add**:
 
-<img src="/assets/select-modifier-products.png" alt="Add modifiers to collection" class="support-image">
+<img src="/assets/select-grid-products.png" alt="Add products to collection" class="support-image">
 
 ### 3. Add modifiers (optional)
 
