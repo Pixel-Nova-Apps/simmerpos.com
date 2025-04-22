@@ -14,7 +14,7 @@ This guide will walk you through the process of setting up Simmer. If you have a
 
 ### 1. Create the required Simmer collections
 
-Start by creating the product grid and modifier collections in your Shopify admin. You will be prompted to create these collections when you first load Simmer within your Shopify admin:
+Start by creating the product grid and modifier collections in your Shopify admin. You will be prompted to create two collections when you first load Simmer within your Shopify admin:
 
 <img src="/assets/create-simmer-collections.png" alt="Create Simmer collections" class="support-image">
 
