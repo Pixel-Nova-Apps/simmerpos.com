@@ -26,7 +26,7 @@ include_in_header: true
 <div class="changelog-item">
   <div class="date">Apr 24</div>
   <h3>Option to print new items only</h3>
-  <p>It is now possible to enable an option to only print new items on a ticket. To enable this go to 'KDS and printers' in the Simmer dashboard, and either edit or add a new printer, then select the option to only print new items.</p>
+  <p>It is now possible to only print new items on a ticket. To enable this go to 'KDS and printers' in the Simmer dashboard, and either edit or add a new printer, then select the option to only print new items.</p>
 </div>
 
 <div class="changelog-item">
