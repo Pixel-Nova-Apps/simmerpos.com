@@ -24,6 +24,12 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Apr 24</div>
+  <h3>Option to print new items only</h3>
+  <p>It is now possible to enable an option to only print new items on a ticket. To enable this go to 'KDS and printers' in the Simmer dashboard, and either edit or add a new printer, then select the option to only print new items.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Apr 21</div>
   <h3>KDS improvements</h3>
   <p>KDS has been rewritten to be faster and more responsive. You'll no longer see the entire page refresh when you update a ticket or new tickets appear which reduces the chance of missing the "Ready" button and or when marking items as ready.</p>
