@@ -24,6 +24,13 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">Apr 28</div>
+  <h3>Checkboxes added to KDS</h3>
+  <p>We've added a checkbox next to each item on KDS. This makes it easier to mark items as ready and discover the feature.</p>
+</div>
+
+
+<div class="changelog-item">
   <div class="date">Apr 24</div>
   <h3>Option to print new items only</h3>
   <p>It is now possible to only print new items on a ticket. To enable this go to 'KDS and printers' in the Simmer dashboard, and either edit or add a new printer, then select the option to only print new items.</p>
