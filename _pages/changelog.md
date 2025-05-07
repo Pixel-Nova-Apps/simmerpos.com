@@ -24,11 +24,16 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">May 7</div>
+  <h3>Improved KDS login and fixed folder pinning bug</h3>
+  <p>We've made it easier to log in to multiple KDS on the same device without getting "Incorrect PIN" errors. We've also fixed a bug where folder pinning was not working in certain cases.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">Apr 28</div>
   <h3>Checkboxes added to KDS</h3>
   <p>We've added a checkbox next to each item on KDS. This makes it easier to mark items as ready and discover the feature.</p>
 </div>
-
 
 <div class="changelog-item">
   <div class="date">Apr 24</div>
