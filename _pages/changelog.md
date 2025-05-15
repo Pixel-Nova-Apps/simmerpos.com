@@ -24,6 +24,18 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">May 16</div>
+  <h3>Improved layout of Star Micronics printed tickets/h3>
+  <p>The formatting of the Star Micronics printed tickets has been updated to match the Epson printer layout. You'll notice subtle differences in font size and spacing.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">May 15</div>
+  <h3>Preserve customer assigned to cart</h3>
+  <p>Simmer now preserves the customer assigned to the cart when adding tickets to the POS cart.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">May 7</div>
   <h3>Improved KDS login and fixed folder pinning bug</h3>
   <p>We've made it easier to log in to multiple KDS on the same device without getting "Incorrect PIN" errors. We've also fixed a bug where folder pinning was not working in certain cases.</p>
