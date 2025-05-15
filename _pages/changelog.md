@@ -25,7 +25,7 @@ include_in_header: true
 
 <div class="changelog-item">
   <div class="date">May 16</div>
-  <h3>Improved layout of Star Micronics printed tickets/h3>
+  <h3>Improved layout of Star Micronics printed tickets</h3>
   <p>The formatting of the Star Micronics printed tickets has been updated to match the Epson printer layout. You'll notice subtle differences in font size and spacing.</p>
 </div>
 
