@@ -42,7 +42,7 @@ If you are unsure if your printer supports **Server Direct Print**, please conta
 
 Your printer should print out a receipt with your printer's LAN address upon turning it on.
 
-Enter the IP address into your browser to navigate to the printer's settings page, e.g `http://192.168.1.100`. (replace with your printer's actual IP address).
+Enter the IP address into your browser to navigate to the printer's settings page, e.g `http://192.168.1.131`. (replace with your printer's actual IP address).
 
 <img src="/assets/epson-admin/setup-receipt-example.jpeg" alt="Printer LAN address" class="support-image-small">
 
