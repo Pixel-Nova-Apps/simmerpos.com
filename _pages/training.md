@@ -8,7 +8,23 @@ include_in_header: false
   <a href="/">Home</a> &gt; <a href="/support/">Support</a> &gt; Training
 </nav>
 
+
+
+
 # How to use Simmer
+
+## Staff training video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/OSaXk7cRTkQ"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+  </iframe>
+</div>
+
+## Step by step guide
 
 This guide will walk you through how to use Simmer on a daily basis. If you have any questions, contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>
 
