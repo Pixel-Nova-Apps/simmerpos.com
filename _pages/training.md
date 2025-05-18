@@ -28,8 +28,6 @@ include_in_header: false
 
 This guide will walk you through how to use Simmer on a daily basis. If you have any questions, contact <a href="mailto:help@simmerpos.com">help@simmerpos.com</a>
 
-There is also a [tutorial video](https://youtu.be/whwQcWOMk_o?t=190) available.
-
 ### 1. Open the Simmer POS tile
 
 Tap the Simmer tile on your POS to start. You should see a grid of products.
