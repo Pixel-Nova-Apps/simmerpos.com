@@ -24,6 +24,14 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">May 21</div>
+  <h3>Quick add products</h3>
+  <p>It is now possible to add products to the POS cart from the product grid by tapping the product. This is a quick way to add items to the cart without having to navigate to the product details screen.</p>
+  <p>Go to 'Settings' in the Simmer dashboard and enable the 'Quick add' option.</p>
+  <p>Quick adding will only work for products that have a single variant and no modifier options.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">May 16</div>
   <h3>Improved layout of Star Micronics printed tickets</h3>
   <p>The formatting of the Star Micronics printed tickets has been updated to match the Epson printer layout. You'll notice subtle differences in font size and spacing.</p>
