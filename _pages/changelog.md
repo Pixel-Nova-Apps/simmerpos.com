@@ -25,7 +25,7 @@ include_in_header: true
 
 <div class="changelog-item">
   <div class="date">May 22</div>
-  <h3>Ticking printing improvements</h3>
+  <h3>Ticket printing improvements</h3>
   <p>Ticket printing for very busy merchants is now more reliable as the printer will now only receive 5 tickets per request to the server. This prevents the printer from running out of memory and acting erratically.</p>
 </div>
 
