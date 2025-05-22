@@ -24,6 +24,12 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">May 22</div>
+  <h3>Ticking printing improvements</h3>
+  <p>Ticket printing for very busy merchants is now more reliable as the printer will now only receive 5 tickets per request to the server. This prevents the printer from running out of memory and acting erratically.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">May 21</div>
   <h3>Quick add products</h3>
   <p>It is now possible to add products to tickets from the product grid by tapping the product. This is a quick way to add items to the ticket without having to navigate to the product details screen.</p>
