@@ -24,6 +24,18 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">May 27</div>
+  <h3>Kitchen display ready button now optional</h3>
+  <p>It is now possible to disable the ready button on a per kitchen display basis. You can do this by going to 'KDS and printers' in the Simmer dashboard and either editing or adding a new kitchen display.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">May 26</div>
+  <h3>Folder pinning is now lockable</h3>
+  <p>You can now lock the folder pinning setting so that it cannot be changed by staff. You can enable this by going to Simmer within the Shopify admin and then going to Settings.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">May 22</div>
   <h3>Ticket printing improvements</h3>
   <p>Ticket printing for very busy merchants (1000+ tickets per day) is now more reliable as the printer will now only receive 5 tickets per request to the server. This prevents the printer from running out of memory and acting erratically.</p>
