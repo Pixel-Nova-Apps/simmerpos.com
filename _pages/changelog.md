@@ -24,6 +24,24 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">June 11</div>
+  <h3>Quick-add improvement</h3>
+  <p>If there's no current ticket selected but you try rapidly adding items using the quick add feature it will now prevent you from accidentally creating multiple tickets.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">June 6</div>
+  <h3>Returning to Simmer before checkout now remembers the current ticket</h3>
+  <p>If you "Add to cart" from Simmer and then return to Simmer without checking out, the current ticket will now be remembered and you can continue adding items to the ticket.</p>
+</div>
+
+<div class="changelog-item">
+  <div class="date">June 5</div>
+  <h3>Modifiers block improvements</h3>
+  <p>The modifiers block within the Shopify product page is now paginated to improve performance and to prevent merchants from running into modifier limits.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">May 27</div>
   <h3>Kitchen display ready button now optional</h3>
   <p>It is now possible to disable the ready button on a per kitchen display basis. You can do this by going to 'KDS and printers' in the Simmer dashboard and either editing or adding a new kitchen display.</p>
