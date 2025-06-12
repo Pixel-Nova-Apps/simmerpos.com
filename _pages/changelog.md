@@ -24,6 +24,12 @@ include_in_header: true
 <div class="changelog">
 
 <div class="changelog-item">
+  <div class="date">June 12</div>
+  <h3>Complete all items on KDS tickets</h3>
+  <p>There's now an option on KDS to mark all items on a ticket as complete. This is useful if you have a large number of items on a ticket and want to mark them all as complete at once.</p>
+</div>
+
+<div class="changelog-item">
   <div class="date">June 11</div>
   <h3>Quick-add improvement</h3>
   <p>If there's no current ticket selected but you try rapidly adding items using the quick add feature it will now prevent you from accidentally creating multiple tickets.</p>
