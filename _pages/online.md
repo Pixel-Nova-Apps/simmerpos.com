@@ -84,8 +84,6 @@ Then add the Simmer **Delivery Options** cart block to the **Subtotal** section 
 
 <img src="/assets/online/add-cart-block.png" alt="Add cart block" class="support-image">
 
-## Add local pickup and delivery tiles to POS
-
 ## Limitations
 
 ### Buy it now
