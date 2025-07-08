@@ -60,15 +60,15 @@ You'll also need to add each of the food and drinks products to at least one of 
 
 ## Add modifier selection theme block to product page
 
-Next you'll need to add the Simmer modifier block to the product page.
+Next you'll need to add the **Simmer - Modifiers** block to the product page.
 
 <div class="note-box">
-Note that you'll need to do this even if your products don't have any modifiers.
+You'll need to add the Simmer - Modifiers block even if your products don't have any modifiers.
 </div>
 
 From the Shopify Admin, navigate to **Online Store** > **Themes** and select **Customize** for the theme you want to add the block to.
 
-Then navigate to the **Product page** section and add the **Modifier selection** block.
+Then navigate to the **Product page** section and add the **Simmer - Modifiers** block.
 
 <img src="/assets/online/add-theme-block.png" alt="Add modifier selection block" class="support-image">
 
@@ -76,11 +76,11 @@ Then navigate to the **Product page** section and add the **Modifier selection**
 
 From the Shopify Admin, navigate to **Online Store** > **Themes** and select **Customize** for the theme you want to add the block to.
 
-Then navigate to the **Cart page** section and add the **Delivery method and date picker** block.
+Then navigate to the **Cart page** section.
 
 <img src="/assets/online/navigate-to-cart.png" alt="Navigate to cart page" class="support-image">
 
-Then add the Simmer **Delivery Options** cart block to the **Subtotal** section of the cart page.
+Then add the Simmer **Delivery Options (BETA)** cart block to the **Subtotal** section of the cart page.
 
 <img src="/assets/online/add-cart-block.png" alt="Add cart block" class="support-image">
 
