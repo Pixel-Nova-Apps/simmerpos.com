@@ -20,7 +20,7 @@ You'll receive an email once online store has been enabled for your account (usu
 
 ## Add store opening times
 
-From the Simmer Admin, navigate to **Settings** > **Online store** and add your store opening times by selecting each of your locations.
+From the Simmer Admin, navigate to **Online store** and add your store opening times by selecting each of your locations.
 
 <img src="/assets/online/edit-opening-hours.png" alt="Store opening times" class="support-image">
 
@@ -44,9 +44,11 @@ Then click **Add rate**
 
 <img src="/assets/online/add-rate.png" alt="Add rate" class="support-image">
 
-Then enter a custom rate name, this must be called exactly **Pickup in store**. This is required for Simmer to identify the pickup shipping method.
+Then enter a custom rate name, this must be called exactly **Pickup in store** and click **Done**. This is required for Simmer to identify the pickup shipping method.
 
 <img src="/assets/online/rate-modal.png" alt="Rate modal" class="support-image">
+
+Then click **Save** at the top of the page.
 
 ## Add products to the online store channel
 
@@ -60,15 +62,19 @@ You'll also need to add each of the food and drinks products to at least one of 
 
 ## Add modifier selection theme block to product page
 
-Next you'll need to add the **Simmer - Modifiers** block to the product page.
+Next you'll need to add the **Product Modifiers** block to the product page.
 
 <div class="note-box">
-You'll need to add the Simmer - Modifiers block even if your products don't have any modifiers.
+You'll need to add the Product Modifiers block even if your products don't have any modifiers.
 </div>
 
 From the Shopify Admin, navigate to **Online Store** > **Themes** and select **Customize** for the theme you want to add the block to.
 
-Then navigate to the **Product page** section and add the **Simmer - Modifiers** block.
+Then navigate to the **Product page** section.
+
+<img src="/assets/online/theme-product-page.png" alt="Product page" class="support-image">
+
+Add the **Simmer - Modifiers** block.
 
 <img src="/assets/online/add-theme-block.png" alt="Add modifier selection block" class="support-image">
 
@@ -80,7 +86,7 @@ Then navigate to the **Cart page** section.
 
 <img src="/assets/online/navigate-to-cart.png" alt="Navigate to cart page" class="support-image">
 
-Then add the Simmer **Delivery Options (BETA)** cart block to the **Subtotal** section of the cart page.
+Then add the Simmer **Delivery Options** cart block to the **Subtotal** section of the cart page.
 
 <img src="/assets/online/add-cart-block.png" alt="Add cart block" class="support-image">
 
@@ -93,3 +99,5 @@ For non-Plus merchants, **buy it now** is not supported for online store orders 
 ### Drawer cart
 
 For non-Plus merchants, drawer cart is not supported because it is not possible to add the Simmer delivery block to it.
+
+<img src="/assets/online/cart-page.png" alt="Drawer cart" class="support-image">
