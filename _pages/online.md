@@ -18,6 +18,12 @@ This feature is currently in beta and may not be available to all merchants. If 
 
 You'll receive an email once online store has been enabled for your account (usually within 12 hours).
 
+## Add a full address to your store location
+
+Your pickup location must have a full address added to it in order for the pickup in store option to be work correctly.
+
+From the Shopify Admin, navigate to **Settings** > **Locations** and select the location that you want to add the address to.
+
 ## Add store opening times
 
 From the Simmer Admin, navigate to **Online store** and add your store opening times by selecting each of your locations.
@@ -95,6 +101,20 @@ Then add the Simmer **Delivery Options** cart block to the **Subtotal** section 
 ### Buy it now
 
 For non-Plus merchants, **buy it now** is not supported for online store orders as this bypasses the cart page and Simmer's delivery options.
+
+Go to your Shopify Admin
+
+Click Online Store > Themes
+
+Click Customize next to your live theme
+
+Go to a product page in the theme editor
+
+Click on the Product Information block or section
+
+Look for a setting called "Show dynamic checkout button" or "Buy it now button" and uncheck it
+
+Click Save
 
 ### Drawer cart
 
