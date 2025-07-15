@@ -102,22 +102,16 @@ Then add the Simmer **Delivery Options** cart block to the **Subtotal** section 
 
 For non-Plus merchants, **buy it now** is not supported for online store orders as this bypasses the cart page and Simmer's delivery options.
 
-Go to your Shopify Admin
-
-Click Online Store > Themes
-
-Click Customize next to your live theme
-
-Go to a product page in the theme editor
-
-Click on the Product Information block or section
-
-Look for a setting called "Show dynamic checkout button" or "Buy it now button" and uncheck it
-
-Click Save
+- Go to your Shopify Admin
+- Click **Online Store** > **Themes**
+- Click **Customize** next to your live theme
+- Go to a product page in the theme editor
+- Click on the **Product Information** block or section
+- Look for a setting called **Show dynamic checkout button** or **Buy it now button** and uncheck it
+- Click **Save**
 
 ### Drawer cart
 
-For non-Plus merchants, drawer cart is not supported because it is not possible to add the Simmer delivery block to it.
+For non-Plus merchants, the drawer cart is not supported because it is not possible to add the Simmer delivery block to it.
 
 <img src="/assets/online/cart-page.png" alt="Drawer cart" class="support-image">
