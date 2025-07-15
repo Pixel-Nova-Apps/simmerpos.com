@@ -115,3 +115,7 @@ For non-Plus merchants, **buy it now** is not supported for online store orders 
 For non-Plus merchants, the drawer cart is not supported because it is not possible to add the Simmer delivery block to it.
 
 <img src="/assets/online/cart-page.png" alt="Drawer cart" class="support-image">
+
+### Troubleshooting
+
+If you're having trouble with the online store, please email [help@simmerpos.com](mailto:help@simmerpos.com).
