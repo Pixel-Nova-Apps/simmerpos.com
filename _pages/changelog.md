@@ -4,7 +4,7 @@ title: Changelog
 include_in_header: true
 ---
 
-# Up next
+<!-- # Up next
 
 <div class="changelog">
 
@@ -17,11 +17,27 @@ include_in_header: true
   <p>Please email <a href="mailto:help@simmerpos.com">help@simmerpos.com</a> if you'd like early access or to be notified when this feature is released.</p>
 </div>
 
-</div>
+</div> -->
 
 # Changelog
 
 <div class="changelog">
+
+<div class="feature-release">
+  <div class="date">July 16</div>
+  <h2>⭐️ Online orders are here - fully integrated with KDS and printing! 🚀</h2>
+
+  <p>After months of development and three major iterations, we’ve finally nailed it and we couldn’t be more excited to share this with you!</p>
+
+  <p>You can now receive online orders directly through your Shopify store and have them automatically appear as tickets on your Simmer Kitchen Display System (KDS) and print out on your connected printers. No manual entry, no missed orders, just seamless service from click to kitchen.</p>
+
+  <p>Your customers will love it too. When they add a Simmer product to their cart, they’ll see a pickup option with a date and time picker built right in. It’s all the Shopify goodness you’re used to, now supercharged with Simmer’s smart order handling.</p>
+
+  <p>To get started, head to the Simmer Admin and click on Online Store. Since this feature is hot off the press, just shoot us a quick email and we’ll activate it and walk you through setup.</p>
+
+  <p>Let’s get those online orders flowing!</p>
+
+</div>
 
 <div class="changelog-item">
   <div class="date">June 12</div>
