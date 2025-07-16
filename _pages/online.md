@@ -14,9 +14,9 @@ include_in_header: false
 
 From the Simmer Admin, navigate to **Settings** > **Online store**.
 
-This feature is currently in beta and may not be available to all merchants. If you'd like access please email [help@simmerpos.com](mailto:help@simmerpos.com).
+This feature is brand new and to ensure you have the best experience getting setup please email [help@simmerpos.com](mailto:help@simmerpos.com) so we can enable it on your account.
 
-You'll receive an email once online store has been enabled for your account (usually within 12 hours).
+You'll receive an email once online store has been enabled (usually within 12 hours).
 
 ## Add a full address to your store location
 
