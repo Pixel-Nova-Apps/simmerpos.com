@@ -23,6 +23,32 @@ include_in_header: true
 
 <div class="changelog">
 
+  <div class="feature-release">
+    <div class="date">Aug 3</div>
+    <h2>⭐️ QR code scanning for dine-in tickets 🚀</h2>
+    <p>Your customers can now scan a QR code at their table to place an order via your Shopify store. You'll need online store enabled for this feature to work.</p>
+    <p>Go to 'Online Store' in the Simmer dashboard to find out more.</p>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">Aug 1</div>
+    <h3>Improved format of ticket titles</h3>
+    <p>Ticket titles now include the Shopify order number to make it easier to look up orders placed via your online store.</p>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">July 30</div>
+    <h3>Better KDS error handling</h3>
+    <p>When a KDS error occurs it will now show a more user-friendly error message and will automatically recover from the error. For example, if the Shopify API is offline it will warn you, but recover as soon as it's back.</p>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">July 29</div>
+    <h3>Out of stock warnings in POS</h3>
+    <p>There's now an option to show out of stock warnings in the Simmer POS extension. This is useful if you want to prevent staff from adding out of stock products to a ticket.</p>
+    <p>Go to 'Settings' in the Simmer dashboard and enable the 'Inventory checks' option.</p>
+  </div>
+
 <div class="feature-release">
   <div class="date">July 16</div>
   <h2>⭐️ Online orders are here - fully integrated with KDS and printing! 🚀</h2>
