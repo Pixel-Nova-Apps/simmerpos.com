@@ -9,9 +9,8 @@ include_in_header: false
 </nav>
 
 <div class="note-box">
-<strong>Error loading the Simmer tile?</strong> If you are having trouble loading the Simmer tile, make sure your tablet's operating system and Shopify POS app are up to date. You can update Shopify POS from the App Store or Google Play Store.
+<strong>Error loading the Simmer tile?</strong> If you are having trouble loading the Simmer tile, make sure your tablet's operating system and Shopify POS app are up to date. You can update Shopify POS from the App Store or Google Play Store. Then try closing and reopening the Simmer tile.
 </div>
-
 
 # Support
 
@@ -81,5 +80,3 @@ Learn how to set up and use Simmer in this short tutorial video.
         allowfullscreen>
 </iframe>
 </div>
-
-
