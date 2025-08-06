@@ -23,6 +23,13 @@ include_in_header: true
 
 <div class="changelog">
 
+  <div class="changelog-item">
+    <div class="date">Aug 5</div>
+    <h3>Kitchen display improvements</h3>
+    <p>There's now a tab showing all tickets that are in the ready state. </p>
+    <p>The kitchen display is now paginated so you can see up to 50 tickets on each page. This will improve the performance of the kitchen display.</p>
+  </div>
+
   <div class="feature-release">
     <div class="date">Aug 3</div>
     <h2>⭐️ QR code scanning for dine-in tickets 🚀</h2>
