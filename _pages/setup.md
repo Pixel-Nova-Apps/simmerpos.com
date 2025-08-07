@@ -22,9 +22,19 @@ Start by creating the product grid and modifier collections in your Shopify admi
 
 First create your products within the Shopify Admin then add products to the Simmer product grid collection. These should be products on your food and drinks menu that you want to show in the Simmer POS tile:
 
-<img src="/assets/add-products-to-grid.png" alt="Add products to grid" class="support-image">
+From the Simmer dashboard go to **Manage products and folders**:
 
-From the collection page, click **Browse**:
+<img src="/assets/manage-products.png" alt="Manage products" class="support-image">
+
+Then select the default grid if you have a single location or you want to share grids across all locations:
+
+<img src="/assets/default-grid.png" alt="Default grid" class="support-image">
+
+Here you can create folders or assign products to the grid by clicking **Default grid**:
+
+<img src="/assets/default-collection.png" alt="Default collection" class="support-image">
+
+From the Shopify collection page, click **Browse**:
 
 <img src="/assets/browse-modifier-products.png" alt="Browse collection" class="support-image">
 
@@ -34,7 +44,7 @@ Then select all of your grid products and click **Add**:
 
 ### 3. Add modifiers (optional)
 
-Modifiers are options that can be added to products such as flavourings and toppings. To add modifiers, create a new product within Shopify and set the collection to 'Simmer: Modifiers'. 
+Modifiers are options that can be added to products such as flavourings and toppings. To add modifiers, create a new product within Shopify and set the collection to 'Simmer: Modifiers'.
 
 <img src="/assets/add-modifier-to-collection.png" alt="Add modifier to collection" class="support-image">
 
