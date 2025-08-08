@@ -23,6 +23,14 @@ include_in_header: true
 
 <div class="changelog">
 
+  <div class="feature-release">
+    <div class="date">Aug 8</div>
+    <h2>⭐️ Location aware product grids 🚀</h2>
+    <p>Product grids are now location aware, meaning you can have different grids for different locations.</p>
+    <p>To keep things simple, the default grid will be shared across all locations, and you can override each location with its own set of products and folders if needed.</p>
+    <p>Go to 'Products and folders' in the Simmer dashboard to find out more.</p>
+  </div>
+
   <div class="changelog-item">
     <div class="date">Aug 5</div>
     <h3>Kitchen display improvements</h3>
