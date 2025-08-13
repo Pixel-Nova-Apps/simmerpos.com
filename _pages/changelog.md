@@ -23,6 +23,12 @@ include_in_header: true
 
 <div class="changelog">
 
+  <div class="changelog-item">
+    <div class="date">Aug 13</div>
+    <h3>Huge speed improvements</h3>
+    <p>You may have noticed already but the app load times are now almost instant, same with switching folders and viewing products. This is due to a complete rewrite of the the way Simmer manages your products and folders. </p>
+  </div>
+
   <div class="feature-release">
     <div class="date">Aug 8</div>
     <h2>⭐️ Location aware product grids 🚀</h2>
