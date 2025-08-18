@@ -25,11 +25,17 @@ include_in_header: true
 
   <div class="changelog-item">
     <div class="date">Aug 18</div>
+    <h3>Out of stock modifiers</h3>
+    <p>Modifiers will now show in red if out of stock and selecting them will show a warning banner.</p>
+    <p>Go to 'Settings' in the Simmer dashboard and enable the 'Inventory checks' option.</p>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">Aug 17</div>
     <h3>Bug fixes and tweaks</h3>
     <p>The search feature no longer shows duplicate results if products exist in multiple folders.</p>
     <p>Fixed a bug where apostrophes in variant titles were causing issues with the ticket page.</p>
     <p>Reversed the sort order on the KDS 'ready' tab to make it easier to find recently used tickets.</p>
-    
   </div>
 
   <div class="changelog-item">
