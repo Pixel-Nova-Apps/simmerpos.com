@@ -24,6 +24,15 @@ include_in_header: true
 <div class="changelog">
 
   <div class="changelog-item">
+    <div class="date">Aug 18</div>
+    <h3>Bug fixes and tweaks</h3>
+    <p>The search feature no longer shows duplicate results if products exist in multiple folders.</p>
+    <p>Fixed a bug where apostrophes in variant titles were causing issues with the ticket page.</p>
+    <p>Reversed the sort order on the KDS 'ready' tab to make it easier to find recently used tickets.</p>
+    
+  </div>
+
+  <div class="changelog-item">
     <div class="date">Aug 13</div>
     <h3>Huge speed improvements</h3>
     <p>You may have noticed already but the app load times are now almost instant, same with switching folders and viewing products. This is due to a complete rewrite of the the way Simmer manages your products and folders. </p>
