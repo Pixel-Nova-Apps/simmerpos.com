@@ -26,7 +26,7 @@ include_in_header: true
   <div class="changelog-item">
     <div class="date">Aug 20</div>
     <h3>More speed improvements</h3>
-    <p>The tickets screen and switching between product variants are now much faster.</p>
+    <p>The ticket screens and switching between product variants are now much faster.</p>
   </div>
 
   <div class="changelog-item">
