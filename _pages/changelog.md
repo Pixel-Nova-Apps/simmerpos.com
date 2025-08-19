@@ -24,6 +24,12 @@ include_in_header: true
 <div class="changelog">
 
   <div class="changelog-item">
+    <div class="date">Aug 20</div>
+    <h3>More speed improvements</h3>
+    <p>The tickets screen and switching between product variants are now much faster.</p>
+  </div>
+
+  <div class="changelog-item">
     <div class="date">Aug 18</div>
     <h3>Out of stock modifiers</h3>
     <p>Modifiers will now show in red if out of stock and selecting them will show a warning banner.</p>
