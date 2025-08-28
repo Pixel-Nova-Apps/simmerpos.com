@@ -57,7 +57,7 @@ For questions, to book a demo or to request a feature, contact <a href="mailto:h
     <p>Set up and configure your ticket printers</p>
   </a>
 
-  <!-- <a href="/online/" class="support-tile">
+  <a href="/online/" class="support-tile">
     <div class="tile-icon">
       <svg viewBox="0 0 24 24" width="48" height="48">
         <path fill="currentColor" d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
@@ -65,7 +65,22 @@ For questions, to book a demo or to request a feature, contact <a href="mailto:h
     </div>
     <h3>Online store setup</h3>
     <p>Set up and configure your online store</p>
-  </a> -->
+  </a>
+
+    <a href="/service-point/" class="support-tile">
+    <div class="tile-icon">
+      <svg viewBox="0 0 24 24" width="48" height="48">
+        <circle cx="12" cy="12" r="5" fill="currentColor"/>
+        <rect x="10" y="1" width="4" height="3" rx="1" fill="currentColor"/>
+        <rect x="10" y="20" width="4" height="3" rx="1" fill="currentColor"/>
+        <rect x="1" y="10" width="3" height="4" rx="1" fill="currentColor"/>
+        <rect x="20" y="10" width="3" height="4" rx="1" fill="currentColor"/>
+      </svg>
+    </div>
+    <h3>Table management</h3>
+    <p>Learn how to set up and use table management</p>
+
+  </a>
 </div>
 
 ## Tutorial video
