@@ -34,6 +34,4 @@ Then create service points:
 
 ## How to use table management
 
-Once the service points and groups have been created, you can use them in the Simmer POS extension when editing a ticket:
-
-SCREENSHOT HERE
+Once the service points and groups have been created, you can use them in the Simmer POS extension when editing a ticket.
