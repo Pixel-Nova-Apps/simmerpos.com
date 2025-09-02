@@ -23,6 +23,15 @@ include_in_header: true
 
 <div class="changelog">
 
+  <div class="feature-release">
+    <div class="date">Sept 1</div>
+    <h2>⭐️ Table management 🚀</h2>
+    <p>Table management is now available. This allows you to manage table, buzzers and flags from within the Simmer dashboard.</p>
+    <p>Tables are location aware, meaning you can have different tables for different locations.</p>
+    <p>Tables can be grouped into different areas for example 'inside' and 'outside'.</p>
+    <p>Go to 'Table management' in the Simmer dashboard to find out more.</p>
+  </div>
+
   <div class="changelog-item">
     <div class="date">Aug 20</div>
     <h3>More speed improvements</h3>

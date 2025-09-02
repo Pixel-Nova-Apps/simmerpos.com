@@ -1,122 +1,159 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-{% include head.html %}
+  {% include head.html %}
 
   <body>
     <div class="container">
-        
       {% include header.html %}
-      
-        <main>
-          <section class="hero">
-            <div class="hero-content">
-              <h1 class="hero-title">Your food service business on Shopify</h1>
-              <p class="hero-description">Whether you're running a bustling café or an intimate restaurant, Simmer grows with your business. Reduce complexity, minimize manual work, and focus on what matters most — delighting your customers</p>
-              <a href="https://apps.shopify.com/simmer" style="width: 250px; display: inline-block; text-align: center;">
-                <img src="{{ '/assets/appstore.png' | relative_url }}" alt="Available on Shopify App Store" style="max-width: 100%; height: auto;">
-              </a>
-            </div>
-            <div class="hero-image">
-              <img src="{{ '/assets/simmer-screenshot.jpeg' | relative_url }}" alt="Simmer iPad App Screenshot" class="screenshot angled">
-            </div>
-          </section>
-      
-          <section id="features" class="features">
-            <h2 class="features-title">All you need to run your <span id="business-type">coffee shop</span><span class="cursor">|</span> on Shopify</h2>
-            <div class="feature-grid">
-              <div class="feature-item">
-                <i class="fas fa-sync-alt"></i>
-                <h3>Seamless Shopify integration</h3>
-                <p>Compatible with discounting, reporting and inventory management.</p>
-              </div>
-              <div class="feature-item">
-                <i class="fas fa-ticket-alt"></i>
-                <h3>Smart ticket management</h3>
-                <p>Keep track of customer tickets with pre and post-pay options.</p>
-              </div>
-              <div class="feature-item">
-                <i class="fas fa-edit"></i>
-                <h3>Flexible menu &amp; modifiers</h3>
-                <p>Easily customize your menu and add modifiers to suit your unique offerings.</p>
-              </div>
-              <div class="feature-item">
-                <i class="fas fa-mobile-alt"></i>
-                <h3>Built for Shopify POS</h3>
-                <p>Fully compatible with Shopify POS and POS Go for a unified experience.</p>
-              </div>
-              <div class="feature-item">
-                <i class="fas fa-tv"></i>
-                <h3>Kitchen displays</h3>
-                <p>Create a kitchen display to show tickets in your kitchen.</p>
-              </div>
-              <div class="feature-item">
-                <i class="fas fa-print"></i>
-                <h3>Ticket printing</h3>
-                <p>Automaticaly print tickets to the kitchen, bar and more.</p>
-              </div>
-            </div>
-          </section>
 
-          <section id="pricing" class="pricing">
-            <h2 class="pricing-title">Simple pricing</h2>
-            <div class="pricing-option">
-              <div class="pricing-banner">7 DAY FREE TRIAL</div>
-              <p class="price">$30/month</p>
-              <ul class="pricing-features">
-                <li>Full Simmer POS functionality</li>
-                <li>Unlimited tickets and modifiers</li>
-                <li>Unlimited kitchen displays</li>
-                <li>Unlimited ticket printers</li>
-                <li>+$30/month per additional store location</li>
-              </ul>
-              <a href="https://apps.shopify.com/simmer" class="btn btn-primary">Get started</a>
-            </div>
+      <main>
+        <section class="hero">
+          <div class="hero-content">
+            <h1 class="hero-title">Your food service business on Shopify</h1>
+            <p class="hero-description">
+              Whether you're running a bustling café or an intimate restaurant,
+              Simmer grows with your business. Reduce complexity, minimize
+              manual work, and focus on what matters most — delighting your
+              customers
+            </p>
+            <a
+              href="https://apps.shopify.com/simmer"
+              style="width: 250px; display: inline-block; text-align: center"
+            >
+              <img
+                src="{{ '/assets/appstore.png' | relative_url }}"
+                alt="Available on Shopify App Store"
+                style="max-width: 100%; height: auto"
+              />
+            </a>
+          </div>
+          <div class="hero-image">
+            <img
+              src="{{ '/assets/simmer-screenshot.jpeg' | relative_url }}"
+              alt="Simmer iPad App Screenshot"
+              class="screenshot angled"
+            />
+          </div>
+        </section>
 
-            <div class="pricing-note">All prices in USD</div>
-          </section>
-        </main>
-        {% include footer.html %}
+        <section id="features" class="features">
+          <h2 class="features-title">
+            All you need to run your <span id="business-type">coffee shop</span
+            ><span class="cursor">|</span> on Shopify
+          </h2>
+          <div class="feature-grid">
+            <div class="feature-item">
+              <i class="fas fa-sync-alt"></i>
+              <h3>Seamless Shopify integration</h3>
+              <p>
+                Compatible with discounting, reporting and inventory management.
+              </p>
+            </div>
+            <div class="feature-item">
+              <i class="fas fa-ticket-alt"></i>
+              <h3>Smart ticket management</h3>
+              <p>
+                Keep track of customer tickets with pre and post-pay options.
+              </p>
+            </div>
+            <div class="feature-item">
+              <i class="fas fa-edit"></i>
+              <h3>Flexible menu &amp; modifiers</h3>
+              <p>
+                Easily customize your menu and add modifiers to suit your unique
+                offerings.
+              </p>
+            </div>
+            <div class="feature-item">
+              <i class="fas fa-mobile-alt"></i>
+              <h3>Built for Shopify POS</h3>
+              <p>
+                Fully compatible with Shopify POS and POS Go for a unified
+                experience.
+              </p>
+            </div>
+            <div class="feature-item">
+              <i class="fas fa-tv"></i>
+              <h3>Kitchen displays</h3>
+              <p>Create a kitchen display to show tickets in your kitchen.</p>
+            </div>
+            <div class="feature-item">
+              <i class="fas fa-print"></i>
+              <h3>Ticket printing</h3>
+              <p>Automaticaly print tickets to the kitchen, bar and more.</p>
+            </div>
+          </div>
+        </section>
+
+        <section id="pricing" class="pricing">
+          <h2 class="pricing-title">Simple pricing</h2>
+          <div class="pricing-option">
+            <div class="pricing-banner">30 DAY FREE TRIAL</div>
+            <p class="price">$30/month</p>
+            <ul class="pricing-features">
+              <li>Full Simmer POS functionality</li>
+              <li>Unlimited tickets and modifiers</li>
+              <li>Unlimited kitchen displays</li>
+              <li>Unlimited ticket printers</li>
+              <li>+$30/month per additional store location</li>
+            </ul>
+            <a href="https://apps.shopify.com/simmer" class="btn btn-primary"
+              >Get started</a
+            >
+          </div>
+
+          <div class="pricing-note">All prices in USD</div>
+        </section>
+      </main>
+      {% include footer.html %}
     </div>
 
     <script>
-      const businessTypes = ['coffee shop', 'diner', 'restaurant', 'café', 'winery', 'brewery', 'bakery'];
+      const businessTypes = [
+        "coffee shop",
+        "diner",
+        "restaurant",
+        "café",
+        "winery",
+        "brewery",
+        "bakery",
+      ];
       let currentIndex = 0;
       let isDeleting = false;
-      let currentText = '';
+      let currentText = "";
       let typingSpeed = 100; // Speed for typing each character
       let deletingSpeed = 50; // Speed for deleting each character
       let pauseBeforeDelete = 1500; // How long to wait before starting to delete
       let pauseBeforeNewWord = 500; // How long to wait before typing new word
-      
+
       function typeEffect() {
-        const element = document.getElementById('business-type');
+        const element = document.getElementById("business-type");
         const fullText = businessTypes[currentIndex];
-        
+
         if (!isDeleting) {
           // Typing
           currentText = fullText.substring(0, currentText.length + 1);
           element.textContent = currentText;
-          
+
           if (currentText === fullText) {
             isDeleting = true;
             setTimeout(typeEffect, pauseBeforeDelete);
             return;
           }
-          
+
           setTimeout(typeEffect, typingSpeed);
         } else {
           // Deleting
           currentText = fullText.substring(0, currentText.length - 1);
           element.textContent = currentText;
-          
-          if (currentText === '') {
+
+          if (currentText === "") {
             isDeleting = false;
             currentIndex = (currentIndex + 1) % businessTypes.length;
             setTimeout(typeEffect, pauseBeforeNewWord);
             return;
           }
-          
+
           setTimeout(typeEffect, deletingSpeed);
         }
       }
@@ -132,9 +169,14 @@
       }
 
       @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0;
+        }
       }
     </style>
-  </body> 
+  </body>
 </html>
