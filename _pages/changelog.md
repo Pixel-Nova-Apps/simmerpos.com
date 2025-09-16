@@ -24,6 +24,19 @@ include_in_header: true
 <div class="changelog">
 
   <div class="feature-release">
+    <div class="date">Sept 12</div>
+    <h2>⭐️ Customer displays 🚀</h2>
+    <p>Customer displays are now available. This means your customers can view a screen to see when their order is ready.</p>
+    <p>Go to 'Displays and printers' in the Simmer dashboard to find out more.</p>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">Sept 11</div>
+    <h3>Improvements to grid layout</h3>
+    <p>Android devices will now show 5 items per row instead of 4. This is Android only because POS app can load full screen whereas on iOS they load within a modal/popup.</p>
+  </div>
+  
+  <div class="feature-release">
     <div class="date">Sept 1</div>
     <h2>⭐️ Table management 🚀</h2>
     <p>Table management is now available. This allows you to manage table, buzzers and flags from within the Simmer dashboard.</p>
