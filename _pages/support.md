@@ -36,7 +36,7 @@ For questions, to book a demo or to request a feature, contact <a href="mailto:h
     <h3>Using Simmer</h3>
     <p>Learn how to use Simmer in your daily operations</p>
   </a>
-  
+
   <a href="/kitchen-display/" class="support-tile">
     <div class="tile-icon">
       <svg viewBox="0 0 24 24" width="48" height="48">
@@ -88,10 +88,10 @@ For questions, to book a demo or to request a feature, contact <a href="mailto:h
 Learn how to set up and use Simmer in this short tutorial video.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://www.youtube.com/embed/whwQcWOMk_o" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-        frameborder="0" 
-        allow="autoplay; encrypted-media" 
+<iframe src="https://www.youtube.com/embed/CCEvV9Czlgk"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
         allowfullscreen>
 </iframe>
 </div>
