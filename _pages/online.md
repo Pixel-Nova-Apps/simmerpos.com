@@ -10,7 +10,7 @@ include_in_header: false
 
 # Online store setup
 
-## Enable online store within Simmer settings
+## Enable online store within Simmer
 
 From the Simmer Admin, navigate to **Settings** > **Online store**. Then click **Enable**.
 
