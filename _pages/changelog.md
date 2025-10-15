@@ -23,13 +23,7 @@ include_in_header: true
 
 <div class="changelog">
 
-   <div class="changelog-item">
-    <div class="date">Oct 16</div>
-    <h2>Zero dollar checkout validation</h2>
-    <p>It's now impossible for customers and bots to purchase modifier items for free as individual items.</p>
-  </div>
-
-   <div class="changelog-item">
+  <div class="changelog-item">
     <div class="date">Oct 14</div>
     <h2>Print multiple ticket copies</h2>
     <p>Added the ability to set the number of ticket copies to print. This is useful if you want to print multiple copies of a ticket from the same printer for different prep areas.</p>
@@ -51,16 +45,12 @@ include_in_header: true
     <div class="date">Oct 10</div>
     <h2>Lots of improvements</h2>
     <p>If your internet connection is interupted Simmer will no longer wait 30 seconds to try again, it will do so after 10 seconds.</p>
+    <p>Added a dedicated page with deep links to theme block installation within the Simmer admin.</p>
     <p>Updated billing page to allow activation of individual POS locations.</p>
     <p>Fixed issue with the Horizon theme and online ordering.</p>
     <p>Fixed issue with modifier selection and the Dawn theme.</p>
+    <p>Added preventative measures for stopping $0 checkouts when bots try to purchase standalone modifiers.</p>
     <p>Fixed issue with min/max modifiers values. You can now set the min and max to the same value e.g when selecting a milk type for a coffee you can enforce a single selection.</p>
-  </div>
-
-   <div class="changelog-item">
-    <div class="date">Oct 8</div>
-    <h2>Improvement to online store setup</h2>
-    <p>Added a dedicated page with deep links to theme block installation within the Simmer admin and video tutorials for each block.</p>
   </div>
 
   <div class="feature-release">
