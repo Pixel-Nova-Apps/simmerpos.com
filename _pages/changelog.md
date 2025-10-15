@@ -43,7 +43,7 @@ include_in_header: true
 
    <div class="changelog-item">
     <div class="date">Oct 10</div>
-    <h2>Lots of improvements</h2>
+    <h2>Fixes and improvements</h2>
     <p>If your internet connection is interupted Simmer will no longer wait 30 seconds to try again, it will do so after 10 seconds.</p>
     <p>Added a dedicated page with deep links to theme block installation within the Simmer admin.</p>
     <p>Updated billing page to allow activation of individual POS locations.</p>
