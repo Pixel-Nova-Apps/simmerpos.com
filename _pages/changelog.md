@@ -24,6 +24,12 @@ include_in_header: true
 <div class="changelog">
 
   <div class="changelog-item">
+    <div class="date">Oct 27</div>
+    <h2>Printed ticket line item grouping</h2>
+    <p>There's now an option to group line items on the printed tickets. E.g 4 x Flat white. The grouping is done when the variant and modifiers match. To enable this go to the Simmer admin then Displays and printers. There's now a "Group line items" checkbox for each printer.</p>
+  </div>
+
+  <div class="changelog-item">
     <div class="date">Oct 14</div>
     <h2>Print multiple ticket copies</h2>
     <p>Added the ability to set the number of ticket copies to print. This is useful if you want to print multiple copies of a ticket from the same printer for different prep areas.</p>
@@ -65,7 +71,7 @@ include_in_header: true
     <h3>Improvements to grid layout</h3>
     <p>Android devices will now show 5 items per row instead of 4. This is Android only because POS app can load full screen whereas on iOS they load within a modal/popup.</p>
   </div>
-  
+
   <div class="feature-release">
     <div class="date">Sept 1</div>
     <h2>⭐️ Table management 🚀</h2>
