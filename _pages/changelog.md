@@ -24,6 +24,18 @@ include_in_header: true
 <div class="changelog">
 
   <div class="changelog-item">
+    <div class="date">Nov 12</div>
+    <h2>Ticket improvements</h2>
+    <p>The sent at date now appears on all printed tickets regardless of ticket method (e.g takeout).</p>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">Nov 11</div>
+    <h2>Completion of hosting migration</h2>
+    <p>Simmer has moved to a new hosting provider to increase performance and scalability of the app. This was a pretty big undertaking, took multiple weeks of planning and was managed with zero downtime. Back to building features!</p>
+  </div>
+
+  <div class="changelog-item">
     <div class="date">Oct 27</div>
     <h2>Printed ticket line item grouping</h2>
     <p>There's now an option to group line items on the printed tickets. E.g 4 x Flat white. The grouping is done when the variant and modifiers match. To enable this go to the Simmer admin then Displays and printers. There's now a "Group line items" checkbox for each printer.</p>
