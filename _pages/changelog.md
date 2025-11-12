@@ -25,43 +25,43 @@ include_in_header: true
 
   <div class="changelog-item">
     <div class="date">Nov 12</div>
-    <h2>Ticket improvements</h2>
+    <h3>Ticket improvements</h3>
     <p>The sent at date now appears on all printed tickets regardless of ticket method (e.g takeout).</p>
   </div>
 
   <div class="changelog-item">
     <div class="date">Nov 11</div>
-    <h2>Completion of hosting migration</h2>
+    <h3>Completion of hosting migration</h3>
     <p>Simmer has moved to a new hosting provider to increase performance and scalability of the app. This was a pretty big undertaking, took multiple weeks of planning and was managed with zero downtime. Back to building features!</p>
   </div>
 
   <div class="changelog-item">
     <div class="date">Oct 27</div>
-    <h2>Printed ticket line item grouping</h2>
+    <h3>Printed ticket line item grouping</h3>
     <p>There's now an option to group line items on the printed tickets. E.g 4 x Flat white. The grouping is done when the variant and modifiers match. To enable this go to the Simmer admin then Displays and printers. There's now a "Group line items" checkbox for each printer.</p>
   </div>
 
   <div class="changelog-item">
     <div class="date">Oct 14</div>
-    <h2>Print multiple ticket copies</h2>
+    <h3>Print multiple ticket copies</h3>
     <p>Added the ability to set the number of ticket copies to print. This is useful if you want to print multiple copies of a ticket from the same printer for different prep areas.</p>
   </div>
 
    <div class="changelog-item">
     <div class="date">Oct 13</div>
-    <h2>Delivery method and pickup time on order notes</h2>
+    <h3>Delivery method and pickup time on order notes</h3>
     <p>The delivery method and pickup time are now added to the order notes in the Simmer POS extension.</p>
   </div>
 
    <div class="changelog-item">
     <div class="date">Oct 12</div>
-    <h2>Print multiple ticket copies</h2>
+    <h3>Print multiple ticket copies</h3>
     <p>Added the ability to set the number of ticket copies to print. This is useful if you want to print multiple copies of a ticket from the same printer for different prep areas.</p>
   </div>
 
    <div class="changelog-item">
     <div class="date">Oct 10</div>
-    <h2>Fixes and improvements</h2>
+    <h3>Fixes and improvements</h3>
     <p>If your internet connection is interupted Simmer will no longer wait 30 seconds to try again, it will do so after 10 seconds.</p>
     <p>Added a dedicated page with deep links to theme block installation within the Simmer admin.</p>
     <p>Updated billing page to allow activation of individual POS locations.</p>
