@@ -28,16 +28,6 @@ From the Simmer Admin, navigate to **Online store** and add your store opening t
 
 ## Add pickup shipping method
 
-There are two different methods for adding a pickup shipping method to your Shopify store, depending on your Shopify plan.
-
-### Shopify Plus merchants
-
-There is a seperate guide for doing this, please contact [help@simmerpos.com](mailto:help@simmerpos.com) for more information.
-
-### All other merchants
-
-Non-plus merchants must create a custom shipping method and cannot make use of the built-in pickup shipping method. This is because non-Plus merchants don't have access to checkout extensions which are needed by Simmer to add a date picker, this must be done from the cart page instead.
-
 From the Shopify Admin, navigate to **Settings** > **Shipping and delivery** and select the shipping profile that you want to add the pickup shipping method to, by default this is called **General shipping rates**.
 
 <img src="/assets/online/shipping-delivery.png" alt="Add pickup shipping method" class="support-image">
