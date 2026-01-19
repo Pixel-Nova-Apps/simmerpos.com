@@ -54,7 +54,7 @@ include_in_header: true
     <ul>
       <li class="feature-release">
         <strong>⭐️ Product folder sorting 🚀</strong><br><br>
-        It is not possible to sort folders within the product grid via drag and drop.<br>
+        It is now possible to sort folders within the product grid via drag and drop.<br>
         Go to 'Products and folders' in the Simmer dashboard to find out more.
       </li>
       <li>
