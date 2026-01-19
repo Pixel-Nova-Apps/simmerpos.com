@@ -45,6 +45,10 @@ include_in_header: true
           </li>
         </ul>
       </li>
+      <li>
+        <strong>Modifier select theme block - Fix min/max required validations:</strong>
+        The minimum and maximum modifier count validation is now correctly enforced, previously there were situations where it was possible to add products to the cart and ignore these limits.
+      </li>
     </ul>
 
   </div>
