@@ -29,21 +29,18 @@ include_in_header: true
       <li><strong>Happy New Year! 🎉</strong></li>
       <li>
         <strong>Add customer name to ticket name for online orders:</strong>
-        The customer name is now included in the created Simmer ticket for online orders.<br>
-        Note this requires accepting the updated access scopes via Shopify Admin.
-      </li>
-      <li>
-        <strong>Auto-select location based on customer geolocation in online store:</strong>
-
+        The customer name is now included in the created Simmer ticket for online orders. <strong>Note</strong> this requires accepting the updated access scopes via Shopify Admin.
       </li>
       <li>
         <strong>Delivery Options theme block changes:</strong>
         <ul>
           <li>
+            <strong>Auto-select location based on customer geolocation in online store:</strong>
             Delivery options can now be sorted and auto-selected based on the customer's device geolocation.<br>
             To make use of this feature you will need to enable it via the "Delivery Options" theme block settings and update your location opening hours.
           </li>
           <li>
+            <strong>Delivery options available on Product templates:</strong>
             Delivery options can now be included in product templates as well as the cart template, giving merchants more flexibilty for their online store.
           </li>
         </ul>
