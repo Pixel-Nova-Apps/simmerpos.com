@@ -26,7 +26,12 @@ include_in_header: true
   <div class="changelog-item">
     <div class="date">January 2026</div>
     <ul>
-      <li><strong>Happy New Year! 🎉</strong></li>
+      <li class="feature-release">
+        <strong>⭐️ Default Modifiers 🚀</strong><br><br>
+        <strong>Happy New Year! 🎉</strong><br>
+        It is now possible set default modifier variants on products. These will be selected by default when the product loads in POS or the online store.<br>
+        Checkout the updated 'Simmer: Modifiers' block within Shopify Admin 'Products' to see it in action.
+      </li>
       <li>
         <strong>Add customer name to ticket name for online orders:</strong>
         The customer name is now included in the created Simmer ticket for online orders. <strong>Note</strong> this requires accepting the updated access scopes via Shopify Admin.
@@ -48,6 +53,10 @@ include_in_header: true
       <li>
         <strong>Modifier select theme block - Fix min/max required validations:</strong>
         The minimum and maximum modifier count validation is now correctly enforced, previously there were situations where it was possible to add products to the cart and ignore these limits.
+      </li>
+      <li>
+        <strong>Minor speed improvements:</strong>
+        Adding products to tickets is now no longer UI blocking, so you don't have to wait around for it to complete anymore.
       </li>
     </ul>
 
