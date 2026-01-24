@@ -55,6 +55,11 @@ include_in_header: true
         The minimum and maximum modifier count validation is now correctly enforced, previously there were situations where it was possible to add products to the cart and ignore these limits.
       </li>
       <li>
+        <strong>Sortable product modifiers:</strong>
+        Added the ability to manually sort product modifier sets.<br>
+        Go to the 'Simmer: Modifiers' block within Shopify Admin 'Products' to find out more.
+      </li>
+      <li>
         <strong>Minor speed improvements:</strong>
         Adding products to tickets is now no longer UI blocking, so you don't have to wait around for it to complete anymore.
       </li>
