@@ -99,5 +99,5 @@ Our App may contain links to or integrate with third-party services. We are not 
 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-Pixel Nova Ltd
+SimmerHQ Pty Ltd
 help@simmerpos.com
