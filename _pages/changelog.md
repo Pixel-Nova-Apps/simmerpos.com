@@ -4,24 +4,67 @@ title: Changelog
 include_in_header: true
 ---
 
-<!-- # Up next
-
-<div class="changelog">
-
-<div class="feature-release up-next">
-  <div class="date">Soon!</div>
-  <h2>Online orders</h2>
-
-  <p>Simmer will soon support online orders. This will allow you to create tickets from your online store and have them show up in the Simmer extension, on KDS and print to your printer.</p>
-
-  <p>Please email <a href="mailto:help@simmerpos.com">help@simmerpos.com</a> if you'd like early access or to be notified when this feature is released.</p>
-</div>
-
-</div> -->
+<!-- # Up next -->
 
 # Changelog
 
 <div class="changelog">
+  <div class="changelog-item">
+    <div class="date">Coming Soon</div>
+    <ul>
+      <li class="feature-release up-next">
+      <strong>⏳ Restaurant coursing</strong><br><br>
+      Simmer will soon support restaurant coursing, allowing you to manage meal pacing by assigning courses to menu items and sending courses to prep areas at the right time.<br><br>
+      Email <a href="mailto:help@simmerpos.com">help@simmerpos.com</a> to request early access or to be notified when this feature launches.
+      </li>
+    </ul>
+  </div>
+
+  <div class="changelog-item">
+    <div class="date">February 2026</div>
+    <ul>
+      <li class="feature-release">
+        <strong>⭐️ POS Cart Modifier Bundling 🚀</strong><br><br>
+        We've improved the visual representation of product modifiers within the POS cart by using Shopify bundles for modifiers instead of individual products.<br>
+        This means that modifiers will now be nested within their associated product within the cart, making the cart much easier to read.
+      </li>
+      <li>
+        <strong>Display prices in local currencies:</strong>
+        We are now using the contextually appropriate currency for the selected store location to display pricing within Simmer.<br>
+        <strong>Note:</strong> if you're seeing the currency instead of $/€/£/etc. please check your device language and region to ensure the region's local currency matches the expected currency for your selected store location.
+      </li>
+      <li>
+        <strong>Ticket number changes:</strong>
+        <ul>
+          <li>
+            <strong>Make ticket numbers unique per Shopify Location:</strong>
+            Previously ticket numbers where shared across the entire store, this has been changed to be location specific now instead.
+          </li>
+          <li>
+            <strong>Only show the ticket number's last 3 digits:</strong>
+            A quality of life improvement to prevent very large ticket numbers showing.
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Online store changes:</strong>
+        <ul>
+          <li>
+            <strong>Auto-select singular pick-up locations:</strong>
+            The Delivery Options theme block will now automatically select the location if there is only one present.
+          </li>
+          <li>
+            <strong>Add better min/max validation messaging:</strong>
+            The Modifier select theme block now includes better messaging when the modifier min/max validation occurs.
+          </li>
+          <li>
+            <strong>Add option to process all Shopify orders as tickets:</strong>
+            The Simmer App theme block now includes configuration options to allow all online orders to be associated with Simmer tickets.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 
   <div class="changelog-item">
     <div class="date">January 2026</div>
@@ -64,7 +107,6 @@ include_in_header: true
         Adding products to tickets is now no longer UI blocking, so you don't have to wait around for it to complete anymore.
       </li>
     </ul>
-
   </div>
 
   <div class="changelog-item">

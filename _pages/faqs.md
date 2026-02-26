@@ -58,3 +58,7 @@ Split payments can be made once the ticket has been added to the cart using the 
 ## How do customers add a tip? {#question6}
 
 Tips can be added to the order using the built in POS feature. You can learn more about how to use this feature in Shopify's [Help center](https://help.shopify.com/en/manual/sell-in-person/shopify-pos/tips).
+
+## My device is showing the currency instead of $/€/£/etc. {#question7}
+
+Please check your device language and region to ensure the region's local currency matches the expected currency for your selected store location, see the support documentation for each platform - [Apple](https://support.apple.com/en-au/guide/iphone/iphce20717a3/ios) or [Android](https://support.google.com/pixelphone/answer/12571227).
