@@ -67,7 +67,7 @@ For questions, to book a demo or to request a feature, contact <a href="mailto:h
     <p>Set up and configure your online store</p>
   </a>
 
-    <a href="/service-point/" class="support-tile">
+  <a href="/table-service/" class="support-tile">
     <div class="tile-icon">
       <svg viewBox="0 0 24 24" width="48" height="48">
         <circle cx="12" cy="12" r="5" fill="currentColor"/>
@@ -77,9 +77,8 @@ For questions, to book a demo or to request a feature, contact <a href="mailto:h
         <rect x="20" y="10" width="3" height="4" rx="1" fill="currentColor"/>
       </svg>
     </div>
-    <h3>Table management</h3>
-    <p>Learn how to set up and use table management</p>
-
+    <h3>Table service</h3>
+    <p>Learn how to set up and use table service</p>
   </a>
 </div>
 
