@@ -9,13 +9,25 @@ include_in_header: true
 # Changelog
 
 <div class="changelog">
+  <!--
   <div class="changelog-item">
     <div class="date">Coming Soon</div>
     <ul>
       <li class="feature-release up-next">
-      <strong>⏳ Restaurant coursing</strong><br><br>
-      Simmer will soon support restaurant coursing, allowing you to manage meal pacing by assigning courses to menu items and sending courses to prep areas at the right time.<br><br>
-      Email <a href="mailto:help@simmerpos.com">help@simmerpos.com</a> to request early access or to be notified when this feature launches.
+      <strong>⏳ </strong><br><br>
+        <br><br>
+      </li>
+    </ul>
+  </div>
+  -->
+
+  <div class="changelog-item">
+    <div class="date">March 2026</div>
+    <ul>
+      <li class="feature-release">
+        <strong>⭐️ Restaurant coursing 🚀</strong><br><br>
+        Simmer now supports restaurant coursing, allowing you to manage meal pacing by assigning courses to menu items and sending courses to prep areas at the right time.<br><br>
+        Go to <b>'Table service'</b> within Simmer admin to find out more.
       </li>
     </ul>
   </div>
