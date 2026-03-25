@@ -25,6 +25,12 @@ include_in_header: true
     <div class="date">March 2026</div>
     <ul>
       <li class="feature-release">
+        <strong>⭐️ Simmer: Quick Service 🚀</strong><br><br>
+        Simmer now includes a new <b>"Quick Service"</b> extension, designed specifically for quick service restaurants (QSRs), prioritising simplicity and speed.<br><br>
+        This extension works alongside the existing Simmer experience, allowing you to switch between modes as needed.<br><br>
+        To try it out, go to your <b>Shopify POS</b> home screen and select: <b>'Add tile'</b> > <b>'App'</b> > <b>'Simmer'</b> > <b>'Simmer: Quick Service'</b>.
+      </li>
+      <li class="feature-release">
         <strong>⭐️ Restaurant coursing 🚀</strong><br><br>
         Simmer now supports restaurant coursing, allowing you to manage meal pacing by assigning courses to menu items and sending courses to prep areas at the right time.<br><br>
         Go to <b>'Table service'</b> within Simmer admin to find out more.
