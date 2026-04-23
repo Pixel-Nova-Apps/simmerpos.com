@@ -22,6 +22,39 @@ include_in_header: true
   -->
 
   <div class="changelog-item">
+    <div class="date">April 2026</div>
+    <ul>
+      <li>
+        <strong>Enforce modifier min / max validations on the POS:</strong>
+        The modifier min / max validations are now enforced on the POS, preventing you from adding items to the ticket unless the validations have passed.
+      </li>
+      <li>
+        <strong>Added line item spacing option to printers:</strong>
+        Printers now have an optional setting to increase the spacing between printed ticket line items, giving space for prep area staff to write on the ticket if required.
+      </li>
+      <li>
+        <strong>KDS new ticket notifications:</strong>
+        Kitchen displays now have the ability to trigger notifications when new tickets are sent.<br>
+        To see it in action toggle the notification button in the top right of the KDS screen.<br>
+        <strong>Note:</strong> for Safari users, you must first select <strong>"Add to Home Screen"</strong> for your KDS before notifications will work.<br>
+        See <a href="https://support.apple.com/guide/iphone/iph42ab2f3a7/ios#iph4f9a47bbc">Apple's documentation</a> for more info.
+      </li>
+      <li>
+        <strong>Add "Customer Name" to product screen:</strong>
+        There is a new field on the product screen for capturing the customer name at the line item level.
+      </li>
+      <li>
+        <strong>Allow for multi-location printing:</strong>
+        Printers now have the option to print from multiple Shopify locations, useful for situations where prep areas are shared.
+      </li>
+      <li>
+        <strong>Option to ignore zero cost modifiers:</strong>
+        Added a general setting to allow the POS to ignore zero cost modifiers when adding tickets to the cart, this is useful for hiding modifiers on the sales receipt.
+      </li>
+    </ul>
+  </div>
+
+  <div class="changelog-item">
     <div class="date">March 2026</div>
     <ul>
       <li class="feature-release">
@@ -34,6 +67,17 @@ include_in_header: true
         <strong>⭐️ Restaurant coursing 🚀</strong><br><br>
         Simmer now supports restaurant coursing, allowing you to manage meal pacing by assigning courses to menu items and sending courses to prep areas at the right time.<br><br>
         Go to <b>'Table service'</b> within Simmer admin to find out more.
+      </li>
+      <li>
+        <strong>Improved table & ticket management:</strong><br>
+        We made a number of improvements to the table service workflow to remove friction and speed things up.<br>
+        <ul>
+        <li>New Service Points view for seeing table availability at a glance and quickly switching between the active ticket for a table.</li>
+        <li>Change the currently active ticket with a single click</li>
+        <li>The "Tickets" button has moved to the grid next to the "Search" tile</li>
+        <li>The "New Ticket" button is now moved to the top right</li>
+        <li>"Send Ticket" is now available from the ticket preview panel across most screens</li>
+        </ul>
       </li>
     </ul>
   </div>
