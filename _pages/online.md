@@ -44,13 +44,17 @@ Then click **Save** at the top of the page.
 
 ## Add products to the online store channel
 
-Add your food and drink products to the online store channel.
+Add your food and drink products to the **Online Store sales channel**.
 
 <img src="/assets/online/online-store-sales-channel.png" alt="Add products" class="support-image">
 
 ## Add products to Simmer collections
 
-You'll also need to add each of the food and drinks products to at least one of the Simmer collections. This helps Simmer know which are regular products and which are food and drinks so we can exclude them from postal shipping.
+You'll need to add each of the food and drinks products you wish to offer online to at least one of the Simmer collections, such as "Simmer: Products" or your Simmer folder collections.
+
+You must also ensure that any Simmer Collections that you plan to use on the online store are also added to the **Online Store sales channel**, this includes the **"Simmer: Modifiers"** collection if you plan to use modifiers on your products.
+
+This helps Simmer determine which are regular products and which are food and drinks, or modifiers so we can exclude them from standard postal shipping.
 
 ## Add modifier selection theme block to product page
 
@@ -84,21 +88,35 @@ Then add the Simmer **Delivery Options** cart block to the **Subtotal** section 
 
 ## Limitations
 
-### Buy it now
+### Accelerated checkout
 
-For non-Plus merchants, **buy it now** is not supported for online store orders as this bypasses the cart page and Simmer's delivery options.
+**Accelerated checkout** is not supported for online store orders as this bypasses the Simmer theme blocks.
 
 - Go to your Shopify Admin
 - Click **Online Store** > **Themes**
-- Click **Customize** next to your live theme
-- Go to a product page in the theme editor
-- Click on the **Product Information** block or section
-- Look for a setting called **Show dynamic checkout button** or **Buy it now button** and uncheck it
+- Click **Edit theme** next to your live theme
+- Go to the Product page template in the theme editor
+- Click on the **Product Information** section
+- Expand the **Buy buttons** section and hide the **Accelerated checkout** button
 - Click **Save**
+
+<img src="/assets/online/accelerated-checkout.png" alt="Add cart block" class="support-image">
+
+This also includes the **Quick add** option on Product cards which also bypasses the Simmer theme blocks by adding products directly to the cart.
+
+- Go to your Shopify Admin
+- Click **Online Store** > **Themes**
+- Click **Edit theme** next to your live theme
+- Click **Theme settings** in the top right
+- Expand the **Product cards** section
+- Disable the **Quick add** option
+- Click **Save**
+
+<img src="/assets/online/quick-add.png" alt="Add cart block" class="support-image">
 
 ### Drawer cart
 
-For non-Plus merchants, the drawer cart is not supported because it is not possible to add the Simmer delivery block to it.
+The drawer cart is not supported because it is not possible to add the Simmer delivery block to it.
 
 <img src="/assets/online/cart-page.png" alt="Drawer cart" class="support-image">
 
