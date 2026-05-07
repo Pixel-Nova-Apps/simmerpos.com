@@ -86,6 +86,46 @@ Then add the Simmer **Delivery Options** cart block to the **Subtotal** section 
 
 <img src="/assets/online/add-cart-block.png" alt="Add cart block" class="support-image">
 
+## QR code ordering setup (optional)
+
+You can use our QR code ordering feature to allow customers to make dine in orders via the online store. The QR code must contain the following components:
+
+- **simmer_location** - the ID of the Shopify location that you want the tickets associated with, you can find this in **Shopify Admin** > **Settings** > **Locations**, select the location you'd like to use, then you will find the ID in the URL, e.g. `.../settings/locations/1234567890` where `1234567890` is the ID.
+- **simmer_name** - this is used to populate the "Name" field of the resulting Simmer ticket, you can use this to identify the table. E.g. "T1"
+
+The complete URL to be encoded as a QR code would look something like this:
+
+- `https://<YOUR_ONLINE_STORE_DOMAIN>?simmer_location=1234567890&simmer_name=T1`
+
+QR code ordering requires enabling the **Simmer app theme block** and **adding a dine in shipping method**, instructions for these steps below.
+
+### Enable the Simmer app theme block
+
+From the Shopify Admin, navigate to **Simmer** > **Online store** and scroll down to the bottom of the page where you will find a sections titled **Simmer app theme block**, click **Activate in theme**.
+
+<img src="/assets/online/app-embed-block.png" alt="Enable the Simmer app theme block" class="support-image">
+
+You will be taken to your currently active online store theme where you will be able to toggle on/off the **Simmer app theme block**. There are two options here:
+
+- **QR code parameter parser**: enable this on to use QR code ordering.
+- **Process all orders as tickets**: enable this if you'd like all orders that come in via your online store to be process by Simmer and turned into tickets.
+
+### Add dine in shipping method
+
+From the Shopify Admin, navigate to **Settings** > **Shipping and delivery** and select the shipping profile that you want to add the dine in shipping method to, by default this is called **General profile**.
+
+<img src="/assets/online/shipping-delivery.png" alt="Add pickup shipping method" class="support-image">
+
+Then click **Add shipping option**
+
+<img src="/assets/online/add-rate.png" alt="Add rate" class="support-image">
+
+Enter a custom shipping option name, this must be called exactly **Dine in** and click **Done**. This is required for Simmer to identify the dine in shipping method.
+
+<img src="/assets/online/add-dine-in-shipping-option.png" alt="Add dine in shipping method" class="support-image">
+
+Then click **Save** at the top of the page.
+
 ## Limitations
 
 ### Accelerated checkout
