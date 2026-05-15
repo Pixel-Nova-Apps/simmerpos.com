@@ -22,8 +22,29 @@ include_in_header: true
   -->
 
   <div class="changelog-item">
+    <div class="date">May 2026</div>
+    <ul>
+      <li class="feature-release">
+        <strong>⭐️ Ticket Management 🚀</strong><br><br>
+        Simmer now includes a way to view and edit existing tickets within Shopify Admin, including search and pagination so you can go as far back as you like.<br>
+        We have also added search and pagination to the <b>Tickets</b> screen within Simmer POS too.<br>
+        Go to <b>Tickets</b> within Simmer admin or POS to see it in action.
+      </li>
+      <li>
+        <strong>Implement Autosend - "On cart" in Simmer Quick Service:</strong>
+        The <b>On cart</b> autosend option is now compatible with the Simmer: Quick Service extension!
+      </li>
+    </ul>
+  </div>
+
+  <div class="changelog-item">
     <div class="date">April 2026</div>
     <ul>
+      <li class="feature-release">
+        <strong>⭐️ Default Variants 🚀</strong><br><br>
+        It is now possible set default product variants on your Simmer products. These will be selected by default when the product loads in Simmer POS.<br>
+        Checkout the new <b>Simmer: Variants</b> block within Shopify Admin 'Products' to see it in action.
+      </li>
       <li>
         <strong>Enforce modifier min / max validations on the POS:</strong>
         The modifier min / max validations are now enforced on the POS, preventing you from adding items to the ticket unless the validations have passed.
@@ -50,6 +71,10 @@ include_in_header: true
       <li>
         <strong>Option to ignore zero cost modifiers:</strong>
         Added a general setting to allow the POS to ignore zero cost modifiers when adding tickets to the cart, this is useful for hiding modifiers on the sales receipt.
+      </li>
+      <li>
+        <strong>Handle Zapiet pickup properties:</strong>
+        This allows our merchants to make use of the popular <a href="https://zapiet.com/">Zapiet</a> app for managing store pickup orders, populating the resulting Simmer tickets with the pickup information.
       </li>
     </ul>
   </div>
